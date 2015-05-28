@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projet/!svn/ver/307/drupal-8-dev/date/lib/Drupal/date/Plugin/field/formatter
+END
+FormatIntervalFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projet/!svn/ver/307/drupal-8-dev/date/lib/Drupal/date/Plugin/field/formatter/FormatIntervalFormatter.php
+END
+DatePlainFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/projet/!svn/ver/307/drupal-8-dev/date/lib/Drupal/date/Plugin/field/formatter/DatePlainFormatter.php
+END
+DateDefaultFormatter.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/projet/!svn/ver/307/drupal-8-dev/date/lib/Drupal/date/Plugin/field/formatter/DateDefaultFormatter.php
+END

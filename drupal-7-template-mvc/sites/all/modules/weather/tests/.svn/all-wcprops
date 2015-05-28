@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/tests
+END
+configuration.test
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/tests/configuration.test
+END
+functions.test
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/tests/functions.test
+END
+permissions.test
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/tests/permissions.test
+END
+parser.test
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/tests/parser.test
+END

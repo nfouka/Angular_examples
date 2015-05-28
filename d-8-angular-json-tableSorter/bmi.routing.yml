@@ -1,0 +1,24 @@
+bmi.default_controller_hello:
+  path: '/bmi/hello/{name}'
+  defaults:
+    _controller: '\Drupal\bmi\Controller\DefaultController::hello'
+    _title: 'BMI Title Module DRUPAL 8'
+  requirements:
+    _permission: 'access content'
+
+bmi.default_form:
+  path: '/bmi/settings/DefaultForm'
+  defaults:
+    _form: '\Drupal\bmi\Form\DefaultForm'
+    _title: 'DefaultForm'
+  requirements:
+    _permission: 'access administration pages'
+    
+    
+bmi.default_controller_json:
+  path: '/getResult/json'
+  defaults:
+    _controller: '\Drupal\bmi\Controller\DefaultController::json'
+    _title: 'BMI Title Module DRUPAL 8'
+  requirements:
+    _permission: 'access content'

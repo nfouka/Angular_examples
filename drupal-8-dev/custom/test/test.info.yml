@@ -1,0 +1,5 @@
+name: test
+type: module
+description: module de test
+core: 8.x
+package: société Ausy grenoble

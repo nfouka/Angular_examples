@@ -1,0 +1,24 @@
+dev.default_controller_hello:
+  path: 'dev/hello/{name}'
+  defaults:
+    _controller: '\Drupal\dev\Controller\DefaultController::hello'
+    _title: 'Collection des citroen MVC Drupal 8'
+  requirements:
+    _permission: 'access content'
+
+dev.developer_settings_form:
+  path: '/dev/settings/DeveloperSettingsForm'
+  defaults:
+    _form: '\Drupal\dev\Form\DeveloperSettingsForm'
+    _title: 'DeveloperSettingsForm'
+  requirements:
+    _permission: 'access content'
+
+
+dev.default_controller_view_all:
+  path: 'dev/all'
+  defaults:
+    _controller: '\Drupal\dev\Controller\DefaultController::all'
+    _title: 'Collection des citroen MVC Drupal 8'
+  requirements:
+    _permission: 'access content'

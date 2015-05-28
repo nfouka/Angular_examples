@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projet/!svn/ver/307/drupal-8-dev/date/lib/Drupal/date/Plugin/field/widget
+END
+DateWidgetBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projet/!svn/ver/307/drupal-8-dev/date/lib/Drupal/date/Plugin/field/widget/DateWidgetBase.php
+END
+DateSelectWidget.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/projet/!svn/ver/307/drupal-8-dev/date/lib/Drupal/date/Plugin/field/widget/DateSelectWidget.php
+END
+DatePopupWidget.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projet/!svn/ver/307/drupal-8-dev/date/lib/Drupal/date/Plugin/field/widget/DatePopupWidget.php
+END
+DateTextWidget.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projet/!svn/ver/307/drupal-8-dev/date/lib/Drupal/date/Plugin/field/widget/DateTextWidget.php
+END

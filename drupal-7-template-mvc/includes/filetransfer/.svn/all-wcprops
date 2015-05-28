@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/filetransfer
+END
+filetransfer.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/filetransfer/filetransfer.inc
+END
+ftp.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/filetransfer/ftp.inc
+END
+local.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/filetransfer/local.inc
+END
+ssh.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/filetransfer/ssh.inc
+END

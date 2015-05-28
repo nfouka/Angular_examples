@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projet/!svn/ver/307/drupal-8-dev/date/date_repeat/lib/Drupal/date_repeat/Tests
+END
+DateRepeatFormTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/projet/!svn/ver/307/drupal-8-dev/date/date_repeat/lib/Drupal/date_repeat/Tests/DateRepeatFormTest.php
+END
+DateRRuleCalcTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projet/!svn/ver/307/drupal-8-dev/date/date_repeat/lib/Drupal/date_repeat/Tests/DateRRuleCalcTest.php
+END

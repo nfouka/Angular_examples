@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projet/!svn/ver/305/drupal-angular/includes/database/mysql
+END
+schema.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projet/!svn/ver/305/drupal-angular/includes/database/mysql/schema.inc
+END
+database.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projet/!svn/ver/305/drupal-angular/includes/database/mysql/database.inc
+END
+query.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/305/drupal-angular/includes/database/mysql/query.inc
+END
+install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projet/!svn/ver/305/drupal-angular/includes/database/mysql/install.inc
+END

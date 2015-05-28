@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/projet/!svn/ver/307/drupal-8-dev/devel
+END
+devel.libraries.yml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projet/!svn/ver/307/drupal-8-dev/devel/devel.libraries.yml
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projet/!svn/ver/307/drupal-8-dev/devel/README.txt
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/307/drupal-8-dev/devel/composer.json
+END
+devel.links.task.yml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/307/drupal-8-dev/devel/devel.links.task.yml
+END
+run-tests-drush.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projet/!svn/ver/307/drupal-8-dev/devel/run-tests-drush.sh
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/projet/!svn/ver/307/drupal-8-dev/devel/LICENSE.txt
+END
+devel.rules.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projet/!svn/ver/307/drupal-8-dev/devel/devel.rules.inc
+END
+devel.links.menu.yml
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/307/drupal-8-dev/devel/devel.links.menu.yml
+END
+devel.services.yml
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projet/!svn/ver/307/drupal-8-dev/devel/devel.services.yml
+END
+devel.module
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projet/!svn/ver/307/drupal-8-dev/devel/devel.module
+END
+devel.install
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/307/drupal-8-dev/devel/devel.install
+END
+devel.routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projet/!svn/ver/307/drupal-8-dev/devel/devel.routing.yml
+END
+devel.info.yml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/307/drupal-8-dev/devel/devel.info.yml
+END
+devel.permissions.yml
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projet/!svn/ver/307/drupal-8-dev/devel/devel.permissions.yml
+END

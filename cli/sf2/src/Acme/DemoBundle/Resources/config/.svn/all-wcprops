@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/359/cli/sf2/src/Acme/DemoBundle/Resources/config
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projet/!svn/ver/359/cli/sf2/src/Acme/DemoBundle/Resources/config/routing.yml
+END
+services.xml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/359/cli/sf2/src/Acme/DemoBundle/Resources/config/services.xml
+END

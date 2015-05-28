@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/aggregator/tests
+END
+aggregator_test.module
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/aggregator/tests/aggregator_test.module
+END
+aggregator_test_title_entities.xml
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/aggregator/tests/aggregator_test_title_entities.xml
+END
+aggregator_test.info
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/aggregator/tests/aggregator_test.info
+END
+aggregator_test_atom.xml
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/aggregator/tests/aggregator_test_atom.xml
+END
+aggregator_test_rss091.xml
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/aggregator/tests/aggregator_test_rss091.xml
+END

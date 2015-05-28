@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/simple_gmap
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/simple_gmap/README.txt
+END
+simple-gmap-output.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/simple_gmap/simple-gmap-output.tpl.php
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/simple_gmap/LICENSE.txt
+END
+simple_gmap.module
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/simple_gmap/simple_gmap.module
+END
+simple_gmap.info
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/simple_gmap/simple_gmap.info
+END

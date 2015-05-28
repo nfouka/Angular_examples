@@ -1,0 +1,35 @@
+<script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+<script src="./../../../modules/custom/first/templates/js/calc.js"></script>
+<link rel="stylesheet" type="text/css" href="./../../../modules/custom/first/templates/js/calc.js">
+
+<h1>Ma Calculatrice avec JavaScript</h1>
+
+<div class="clear_both"></div>
+<div class="calcFormItem">{{form_calc.calc_b7}}</div>
+<div class="calcFormItem">{{form_calc.calc_b8}}</div>
+<div class="calcFormItem">{{form_calc.calc_b9}}</div>
+<div class="calcFormItem">{{form_calc.calc_div}}</div>
+<div class="calcFormItem">{{form_calc.calc_clr}}</div>
+<div class="clear_both"></div>
+
+<div class="calcFormItem">{{form_calc.calc_b4}}</div>
+<div class="calcFormItem">{{form_calc.calc_b5}}</div>
+<div class="calcFormItem">{{form_calc.calc_b6}}</div>
+<div class="calcFormItem">{{form_calc.calc_mul}}</div>
+<div class="calcFormItem">{{form_calc.calc_prc}}</div>
+<div class="clear_both"></div>
+
+<div class="calcFormItem">{{form_calc.calc_b1}}</div>
+<div class="calcFormItem">{{form_calc.calc_b2}}</div>
+<div class="calcFormItem">{{form_calc.calc_b3}}</div>
+<div class="calcFormItem">{{form_calc.calc_min}}</div>
+<div class="calcFormItem">{{form_calc.calc_rep}}</div>
+<div class="clear_both"></div>
+
+<div class="calcFormItem">{{form_calc.calc_b0}}</div>
+<div class="calcFormItem">{{form_calc.calc_sgn}}</div>
+<div class="calcFormItem">{{form_calc.calc_pnt}}</div>
+<div class="calcFormItem">{{form_calc.calc_pls}}</div>
+<div class="calcFormItem">{{form_calc.calc_eql}}</div>
+
+

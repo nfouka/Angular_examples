@@ -1,0 +1,6 @@
+mortgage_calculator:
+  pattern: 'mortgage-calculator'
+  defaults:
+    _content: '\Drupal\mortgage_calculator\Controller\MortgageCalculatorController::mortgageCalculatorPage'
+  requirements:
+    _permission: 'access content'

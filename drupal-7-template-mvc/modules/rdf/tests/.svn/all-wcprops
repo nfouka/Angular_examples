@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/rdf/tests
+END
+rdf_test.module
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/rdf/tests/rdf_test.module
+END
+rdf_test.install
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/rdf/tests/rdf_test.install
+END
+rdf_test.info
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/rdf/tests/rdf_test.info
+END

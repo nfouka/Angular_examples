@@ -1,0 +1,100 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Angular Tablesort</title>
+    <link rel="stylesheet" href="tablesort.css"/>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.13/angular.min.js"></script>
+<script src="http://dciss.org/projet/d-8-angular-json-tableSorter/templates/templates/angular-tablesort.js"></script>
+<!-- Latest compiled and minified CSS -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap.min.css">
+
+<!-- Optional theme -->
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/css/bootstrap-theme.min.css">
+
+<!-- Latest compiled and minified JavaScript -->
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.4/js/bootstrap.min.js"></script>
+<link rel="stylesheet" href="{{ asset('bundles/appblog/css/main.css') }}" type="text/css" media="all" />
+</head>
+<body>
+
+ <nav class="navbar navbar-inverse navbar-fixed-top">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+          <a class="navbar-brand" href="#">Project name</a>
+        </div>
+        <div id="navbar" class="collapse navbar-collapse">
+          <ul class="nav navbar-nav">
+            <li class="active"><a href="#">Home</a></li>
+            <li><a href="#about">About</a></li>
+            <li><a href="#contact">Contact</a></li>
+          </ul>
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+    <div class="container">
+
+      <div class="starter-template">
+          <br/><br/>
+        <h1>Bootstrap and Angular With Symfony MCV</h1>
+        <p class="lead">Use this document as a way to quickly start any new project.<br> All you get is this text and a mostly barebones HTML document.</p>
+      </div>
+
+    </div><!-- /.container -->
+    
+
+<div ng-app="myApp" ng-controller="customersCtrl">
+      
+<br/>  
+      
+<br/> 
+<table border="1" ts-wrapper>  
+  <tr>
+                <th ts-criteria="id|parseInt" ts-default>ID</th>
+                <th ts-criteria="nom_fr_fr|lowercase">NAME FR</th>
+                <th ts-criteria="nom_en_gb|lowercase">NAME EN</th>
+                 <th ts-criteria="alpha3|lowercase" ts-default>ALPHA2</th>
+                <th ts-criteria="alpha2|lowercase">ALPHA3</th>
+                
+  </tr>
+  <tr ng-repeat="x in names" ts-repeat>
+    <td> {{ '{{ x.id }}' }} </td>
+    <td> {{ '{{x.nom_fr_fr}}' }}</td>
+    <td> {{ '{{x.nom_en_gb}}' }}</td>
+    <td> {{ '{{x.alpha3}}' }}</td>
+    <td> {{ '{{x.alpha2}}' }}</td>
+    
+    
+  </tr>
+</table>    
+    
+
+<script>
+    var myApp = angular.module( 'myApp', ['tableSort' ] );
+    
+    myApp.controller('customersCtrl', function($scope, $http) {
+    $http.get('{{ url('app_blog_homepage') }}')
+    .success(function(response) {$scope.names = response.records;});
+
+        });
+
+    function tableTestCtrl($scope)  {
+        $scope.items = [
+            {Id: "01", Name: "A", Price: "1.00", Quantity: "1"},
+            {Id: "02", Name: "B", Price: "10.00", Quantity: "1"},
+            {Id: "04", Name: "C", Price: "9.50", Quantity: "10"},
+            {Id: "03", Name: "a", Price: "9.00", Quantity: "2"},
+            {Id: "06", Name: "b", Price: "100.00", Quantity: "2"},
+            {Id: "05",Name: "c", Price: "1.20", Quantity: "2"}
+        ];
+        $scope.noitems = []
+    }
+</script>
+</body>
+</html>

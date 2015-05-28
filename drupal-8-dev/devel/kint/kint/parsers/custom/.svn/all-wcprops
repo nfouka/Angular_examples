@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/parsers/custom
+END
+classmethods.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/parsers/custom/classmethods.php
+END
+json.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/parsers/custom/json.php
+END
+splfileinfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/parsers/custom/splfileinfo.php
+END
+splobjectstorage.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/parsers/custom/splobjectstorage.php
+END
+color.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/parsers/custom/color.php
+END
+classstatics.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/parsers/custom/classstatics.php
+END
+xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/parsers/custom/xml.php
+END
+timestamp.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/parsers/custom/timestamp.php
+END
+fspath.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/parsers/custom/fspath.php
+END
+microtime.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/parsers/custom/microtime.php
+END
+objectiterateable.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/parsers/custom/objectiterateable.php
+END

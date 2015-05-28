@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/dashboard
+END
+dashboard.module
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/dashboard/dashboard.module
+END
+dashboard.install
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/dashboard/dashboard.install
+END
+dashboard-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/dashboard/dashboard-rtl.css
+END
+dashboard.css
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/dashboard/dashboard.css
+END
+dashboard.info
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/dashboard/dashboard.info
+END
+dashboard.js
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/dashboard/dashboard.js
+END
+dashboard.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/dashboard/dashboard.api.php
+END
+dashboard.test
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/dashboard/dashboard.test
+END

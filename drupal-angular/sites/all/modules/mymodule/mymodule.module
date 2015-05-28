@@ -1,0 +1,149 @@
+<?php
+
+
+/**
+ * Implements hook_block_info().
+ */
+function mymodule_block_info() {
+    $blocks = array();
+
+    $blocks['mymodule_block_delta'] = array(
+        'info' => t('Title'),
+        'cache' => DRUPAL_NO_CACHE,
+    );
+
+    return $blocks;
+}
+
+/**
+ * Implements hook_block_view().
+ */
+function mymodule_block_view($delta = '') {
+    if (function_exists($delta . '_view')) {
+        return call_user_func($delta . '_view');
+    }
+}
+
+/**
+ * Implements hook_block_configure().
+ */
+function mymodule_block_configure($delta = '') {
+    if (function_exists($delta . '_configure')) {
+        return call_user_func($delta . '_configure');
+    }
+}
+
+/**
+ * Implements hook_block_save().
+ */
+function mymodule_block_save($delta = '', $edit = array()) {
+    if (function_exists($delta . '_save')) {
+        return call_user_func($delta . '_save', $edit);
+    }
+}
+
+/**
+ * Block code to view mymodule_block_delta
+ */
+function mymodule_block_delta_view() {
+    $block = array('subject' => '', 'content' => '');
+
+    
+
+    return $block;
+}
+
+/**
+ * Block code to configure mymodule_block_delta
+ */
+function mymodule_block_delta_configure() {
+    $form = array();
+    return $form;
+}
+
+/**
+ * Block code to save mymodule_block_delta
+ */
+function mymodule_block_delta_save($edit = array()) {
+}
+
+
+function mymodule_menu() {
+$items['json/cars'] = array(
+    'title' => 'First application with AngularJS',
+    'page callback' => 'all_cars_page',
+    'access arguments' => array('access content'),
+    
+);
+
+    return $items ; 
+}
+
+function mymodule_theme(){
+
+
+$template  = 'all_cars' ; 
+
+return array(
+
+        all_cars => array(
+                'template' => $template ,
+            ),
+    ) ; 
+
+}
+
+
+function all_cars_page(){
+
+    drupal_add_library('angularjs', 'angularjs') ; 
+    drupal_add_library('bootstrap', 'bootstrap') ; 
+    return theme('all_cars') ; 
+}
+/*
+function mymodule_menu() {
+    $items = array();
+
+    $items['my_module/hello_world'] = array(
+        'title' => 'Hello World Test',
+        'page callback' => 'say_hello_world',
+        'access arguments' => array('access content'),
+        'type' => MENU_CALLBACK,
+     );
+
+    return $items;
+}
+
+function say_hello_world() {
+    $vars = array();
+    $vars['type']="ul";
+    $vars['title'] = "";
+    $vars['attributes']=array("");
+    $vars['items'][0]="This is a simple proof of concept module 1";
+    $vars['items'][1]="This is a simple proof of concept module 2";
+    $vars['items'][2]="This is a simple proof of concept module 3";
+
+    //return theme_item_list($vars);
+    return '<div>Its work '
+    . ''
+            . 'Install the module through the Admin Modules interface (dashboard). The new module will probably be listed at the very bottom of the admin/modules page.
+
+Use the Admin Performance function and clear all cache. That will make sure Drupal recognizes the map to your function (Drupal jargon for request mapper is "Menu").
+
+To invoke hello world go to : http://mysite/my_module/hello_world'
+            . '</div>'
+            . '<strong>'
+            . ''
+            . 'Install the module through the Admin Modules interface (dashboard). The new module will probably be listed at the very bottom of the admin/modules page.
+
+Use the Admin Performance function and clear all cache. That will make sure Drupal recognizes the map to your function (Drupal jargon for request mapper is "Menu").
+
+To invoke hello world go to : http://mysite/my_module/hello_world'
+            . ''
+            . '<button>Valider</button>'
+            . '</strong>' ; 
+}
+
+*/
+
+?>

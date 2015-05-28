@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Angular Tablesort</title>
+    <link rel="stylesheet" href="tablesort.css"/>
+</head>
+<body>
+
+          
+<h1>Table Sorter For DataBase Set :didi</h1>        
+
+ Remarque : en février 1998, un groupe a décidé de remplacer le terme « logiciel libre » (Free Software) par « logiciel ouvert » (Open Source Software). Ce débat sur la terminologie est basé sur des différences philosophiques sous-jacentes, mais les exigences sur les licences de logiciels et la présentation suivante sont essentiellement similaires pour le logiciel libre et le logiciel ouvert.
+
+Beaucoup de néophytes des logiciels libres sont embrouillés car en anglais le mot « free » dans l'expression « free software » (logiciel libre) a une autre signification, qui n'est pas celle qu'ils attendent. Pour eux, « free » signifie gratuit. Un dictionnaire anglais propose presque une vingtaine de sens au mot « free ». Un seul signifie gratuit. Les autres font référence à la liberté et à l'absence de contraintes. Lorsque l'on parle de Free Software ou de logiciel libre, nous parlons de liberté et non de prix.
+
+N.d.T. : En français, la traduction limite la confusion, mais elle existe dans les documents en anglais.
+
+Un logiciel gratuit est rarement complètement libre. Il se peut qu'il soit interdit de le donner à quelqu'un et vous ne pouvez vraisemblablement pas l'améliorer. Les logiciels distribués gratuitement sont en général une arme dans une campagne marketing, pour promouvoir un produit apparenté, ou pour mener un concurrent plus petit à la faillite. Il n'y a aucune garantie que ce logiciel reste gratuit.
+
+Les véritables lszogiciels libres demeurent toujours libres. Un logiciel placé dans le domaine public peut être récupéré et transformé en un logiciel non libre. Toutes les améliorations faites alors sont perdues pour la société. Pour rester libres, les logiciels doivent posséder un copyright et une licence.
+
+Pour les non-initiés, un logiciel est libre ou ne l'est pas. La réalité est bien plus complexe. Pour comprendre ce que les gens entendent lorsqu'ils qualifient un logiciel de libre, nous devons faire un petit détour vers les licences des logiciels. 
+          
+<div ng-app="myApp" ng-controller="customersCtrl">
+      
+<br/>  
+      
+<br/> 
+<table border="1" ts-wrapper>  
+  <tr>
+                <th ts-criteria="id|parseInt" ts-default>ID</th>
+                <th ts-criteria="nom_fr_fr|lowercase">NAME FR</th>
+                <th ts-criteria="nom_en_gb|lowercase">NAME EN</th>
+                 <th ts-criteria="alpha3|lowercase" ts-default>ALPHA2</th>
+                <th ts-criteria="alpha2|lowercase">ALPHA3</th>
+                
+  </tr>
+  <tr ng-repeat="x in names" ts-repeat>
+    <td> {{ '{{ x.id }}' }} </td>
+    <td> {{ '{{x.nom_fr_fr}}' }}</td>
+    <td> {{ '{{x.nom_en_gb}}' }}</td>
+    <td> {{ '{{x.alpha3}}' }}</td>
+    <td> {{ '{{x.alpha2}}' }}</td>
+    
+    
+  </tr>
+</table>    
+    
+
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.2.13/angular.min.js"></script>
+<script src="./../../../modules/custom/bmi/templates/js/angular-tablesort.js"></script>
+<link rel="stylesheet" href="./../../../modules/custom/bmi/templates/css/tablesort.css"/>
+
+
+<script>
+    var myApp = angular.module( 'myApp', ['tableSort' ] );
+    
+    myApp.controller('customersCtrl', function($scope, $http) {
+    $http.get( '{{ url('bmi.default_controller_json') }}' )
+    .success(function(response) {$scope.names = response.records;});
+
+        });
+
+    function tableTestCtrl($scope)  {
+        $scope.items = [
+            {Id: "01", Name: "A", Price: "1.00", Quantity: "1"},
+            {Id: "02", Name: "B", Price: "10.00", Quantity: "1"},
+            {Id: "04", Name: "C", Price: "9.50", Quantity: "10"},
+            {Id: "03", Name: "a", Price: "9.00", Quantity: "2"},
+            {Id: "06", Name: "b", Price: "100.00", Quantity: "2"},
+            {Id: "05",Name: "c", Price: "1.20", Quantity: "2"}
+        ];
+        $scope.noitems = []
+    }
+</script>
+</body>
+</html>

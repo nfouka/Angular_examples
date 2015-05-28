@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/ctools/page_manager
+END
+page_manager.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/ctools/page_manager/page_manager.api.php
+END
+page_manager.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/ctools/page_manager/page_manager.admin.inc
+END
+page_manager.module
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/ctools/page_manager/page_manager.module
+END
+page_manager.install
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/ctools/page_manager/page_manager.install
+END
+page_manager.info
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/ctools/page_manager/page_manager.info
+END

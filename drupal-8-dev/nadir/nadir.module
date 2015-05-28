@@ -1,0 +1,45 @@
+<?php
+
+/**
+ * @file
+ * Contains nadir.module
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+
+function nadir_help($route_name, RouteMatchInterface $route_match)
+{
+
+      $element['#attached']['js'][] = drupal_get_path('module', 'nadir') . '/js/js.js';
+
+
+
+  switch ($route_name) {
+    // Main module help for the nadir module.
+    case 'help.page.nadir':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('My Awesome Module') . '</p>';
+      return $output;
+    break;
+  }
+}
+
+/**
+ * Implements hook_theme().
+ */
+
+function nadir_theme()
+{
+
+         $element['#attached']['js'][] = drupal_get_path('module', 'nadir') . '/js/js.js';
+
+
+  $theme = [];
+
+  return $theme;
+}

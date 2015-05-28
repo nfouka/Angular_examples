@@ -1,0 +1,22 @@
+acme.default_controller_hello:
+  path: '/acme/hello/{name}'
+  defaults:
+    _controller: '\Drupal\acme\Controller\DefaultController::hello'
+    _title: 'Acme A Simple Module'
+  requirements:
+    _permission: 'access content'
+
+acme.default_form:
+  path: '/acme/settings/DefaultForm'
+  defaults:
+    _form: '\Drupal\acme\Form\DefaultForm'
+    _title: 'DefaultForm'
+  requirements:
+    _permission: 'access administration pages'
+acme.generate:
+  path: '/acme/settings/generate'
+  defaults:
+    _form: '\Drupal\acme\Form\generate'
+    _title: 'generate'
+  requirements:
+    _permission: 'access administration pages'

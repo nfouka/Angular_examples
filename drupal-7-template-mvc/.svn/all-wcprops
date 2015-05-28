@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/projet/!svn/ver/306/drupal-7-template-mvc
+END
+index.php
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projet/!svn/ver/306/drupal-7-template-mvc/index.php
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/306/drupal-7-template-mvc/LICENSE.txt
+END
+authorize.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projet/!svn/ver/306/drupal-7-template-mvc/authorize.php
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/306/drupal-7-template-mvc/.gitignore
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projet/!svn/ver/306/drupal-7-template-mvc/CHANGELOG.txt
+END
+UPGRADE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/306/drupal-7-template-mvc/UPGRADE.txt
+END
+update.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/306/drupal-7-template-mvc/update.php
+END
+INSTALL.pgsql.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/306/drupal-7-template-mvc/INSTALL.pgsql.txt
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projet/!svn/ver/306/drupal-7-template-mvc/.htaccess
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/306/drupal-7-template-mvc/README.txt
+END
+web.config
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/306/drupal-7-template-mvc/web.config
+END
+INSTALL.sqlite.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projet/!svn/ver/306/drupal-7-template-mvc/INSTALL.sqlite.txt
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/306/drupal-7-template-mvc/INSTALL.txt
+END
+robots.txt
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/306/drupal-7-template-mvc/robots.txt
+END
+COPYRIGHT.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projet/!svn/ver/306/drupal-7-template-mvc/COPYRIGHT.txt
+END
+cron.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/projet/!svn/ver/306/drupal-7-template-mvc/cron.php
+END
+MAINTAINERS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projet/!svn/ver/306/drupal-7-template-mvc/MAINTAINERS.txt
+END
+INSTALL.mysql.txt
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/306/drupal-7-template-mvc/INSTALL.mysql.txt
+END
+xmlrpc.php
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/306/drupal-7-template-mvc/xmlrpc.php
+END
+install.php
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/306/drupal-7-template-mvc/install.php
+END

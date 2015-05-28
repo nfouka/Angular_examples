@@ -1,0 +1,22 @@
+purge_on_cache_clear: true
+storage: profiler.database_storage
+exclude: "/contextual/*\r\n/toolbar/*\r\n/edit/*\r\n*.js\r\n*.css"
+active_toolbar_items:
+  asset: asset
+  block: block
+  cache: cache
+  database: database
+  drupal_extension: drupal_extension
+  form: form
+  frontend: frontend
+  php_config: php_config
+  request: request
+  time: time
+  user: user
+  views: views
+  config: '0'
+  events: '0'
+  http: '0'
+  routing: '0'
+  service: '0'
+  state: '0'

@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/README.md
+END
+config.default.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/config.default.php
+END
+Kint.class.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/Kint.class.php
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/composer.json
+END
+LICENCE
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/LICENCE
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/307/drupal-8-dev/devel/kint/kint/.gitignore
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/library/includes/views/handlers
+END
+library_handler_field_library_status.inc
+K 25
+svn:wc:ra_dav:version-url
+V 133
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/library/includes/views/handlers/library_handler_field_library_status.inc
+END
+library_handler_filter_library_status.inc
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/library/includes/views/handlers/library_handler_filter_library_status.inc
+END
+library_handler_field_quantity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/library/includes/views/handlers/library_handler_field_quantity.inc
+END

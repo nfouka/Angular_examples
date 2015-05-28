@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/projet/!svn/ver/361/cli/sf2/app
+END
+.htaccess
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/projet/!svn/ver/359/cli/sf2/app/.htaccess
+END
+SymfonyRequirements.php
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projet/!svn/ver/359/cli/sf2/app/SymfonyRequirements.php
+END
+autoload.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/projet/!svn/ver/359/cli/sf2/app/autoload.php
+END
+console
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/projet/!svn/ver/359/cli/sf2/app/console
+END
+check.php
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/projet/!svn/ver/359/cli/sf2/app/check.php
+END
+bootstrap.php.cache
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projet/!svn/ver/359/cli/sf2/app/bootstrap.php.cache
+END
+AppKernel.php
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projet/!svn/ver/359/cli/sf2/app/AppKernel.php
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/projet/!svn/ver/359/cli/sf2/app/phpunit.xml.dist
+END
+AppCache.php
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/projet/!svn/ver/359/cli/sf2/app/AppCache.php
+END

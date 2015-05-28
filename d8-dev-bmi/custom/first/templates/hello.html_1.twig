@@ -1,0 +1,257 @@
+
+
+
+ <link rel="stylesheet" type="text/css" href="http://127.0.0.1:7689/modules/mymodule/css/css.css">
+
+<script src='http://code.jquery.com/jquery-1.10.2.js'></script>
+<style type="text/css">
+#edit-my-submit{
+	font-size: 30px ; 
+	display: block;
+	margin-top: 30px ; 
+}
+
+
+</style>
+
+
+<h1>My form testing 2  </h1>
+{{ form }}
+
+<table summary="exemple de structure d'un tableau de données 2 lignes, 2 colonnes">
+  <caption>Tableau de données depuis la base de données</caption>
+
+
+  <tr>
+    <th>NOM</th>
+    <th>ADRESSE</th>
+    <th>METIER</th>
+    <th>DÉVELOPPEUR JAVA/J2EE</th>
+    <th>DELETE</th>
+  </tr>
+ 
+{% for item in collection %}
+		<tr>
+		 		<td>{{ item.your_name }} </td>
+		 		<td>{{ item.your_adress }} </td>
+		 		<td>{{ item.your_job }} </td>
+		 		<td>{{ item.d_veloppeur_java_j2ee }} </td>
+		 		<td><a  href="{{ path('mymodule.default_controller_hello_delete', { 'id': item.id }) }}">DELETE</a></td>
+ 		</tr>
+{% endfor %}
+
+</table>
+
+{% for item in count %}
+	<strong style="color:red;">{{ item.count }}</strong>
+{% endfor %}
+Développeur(s) trouvé(s) .
+
+
+<h1>My Collection from dataBase Entity :</h1>
+{% for item in collection %}
+ 		<li>{{ item.your_name }} </li>
+ 		<li>{{ item.your_adress }} </li>
+ 		<li>{{ item.your_job }} </li>
+ 		<li>{{ item.d_veloppeur_java_j2ee }} </li>
+{% endfor %}
+
+<h1 id="page-subtitle">BMI (Body Mass Index)</h1>
+          
+        
+      </div> <!-- /#page-heading -->
+
+              <div id="tabs" class="clearfix">
+          <h2 class="element-invisible">Primary tabs</h2><ul class="tabs primary clearfix"><li class="active"><a href="/project/bmi" class="active">View<span class="element-invisible">(active tab)</span></a></li>
+<li><a href="/project/bmi/git-instructions">Version control</a></li>
+<li><a href="/node/821330/revisions">Revisions</a></li>
+</ul>        </div> <!-- /#tabs -->
+      
+              <div id="sidebar-first" role="complementary">
+          <div id="sidebar-first-region">
+                      </div> <!-- /#column-right-region-first -->
+        </div> <!-- /#column-right-first -->
+      
+      <div id="main" role="main">
+        
+        <div id="content" class="clearfix">
+                                        <div id="content-inner" class="clearfix">  <div class="region region-content">
+    <div id="block-system-main" class="block block-system">
+<div class="block-inner">
+    
+  <div class="content">
+    <div id="node-821330" class="node node-project-module node-content-821330 clearfix">
+
+  
+      
+      <div class="submitted">
+      Posted by <a href="/u/pflame" title="View user profile." data-uid="43559" class="username">pflame</a> on <time pubdate="" datetime="1275988856">June 8, 2010 at 9:20am</time>    </div>
+  
+  <div class="content">
+    <div class="field field-name-field-project-images field-type-image field-label-hidden"><div class="field-items"><div class="field-item even"><a href="https://www.drupal.org/files/images/BMI.jpg"><img src="https://www.drupal.org/files/styles/grid-3/public/images/BMI.jpg?itok=hO2zfRJa" alt="BMI.jpg" height="233" width="220"></a></div></div></div><div class="field field-name-body field-type-text-with-summary field-label-hidden"><div class="field-items"><div class="field-item even"><p>The BMI (Body Mass Index) module provides a simple method for Drupal site users to check their BMI value. </p>
+<p>A block consisting of a simple form to allow users to input their weight inkgs/pounds and height in cms/mts and click on submit. The form submits through ajax and displays the output right below the button.</p>
+<p>An admin interface is provided to edit the messages that will be displayed based on the BMI value. You can change the content as per your wish or can also provide a link to individual nodes.</p>
+<p>This project has been sponsored by <a href="http://www.azrisolutions.com/" target="_blank" rel="nofollow">Azri Solutions</a></p>
+</div></div></div><div class="project-info item-list">
+  <h3>Project Information</h3>
+  <ul>
+          <li>Maintenance status: <span class=""><a href="/taxonomy/term/13028">Actively maintained</a></span></li>
+          <li>Development status: <span class=""><a href="/taxonomy/term/9988">Under active development</a></span></li>
+          <li>Module categories: <span class="terms"><a href="/project/project_module?f[2]=im_vid_3%3A60">Evaluation/Rating</a>, <a href="/project/project_module?f[2]=im_vid_3%3A11478">Features Package</a>, <a href="/project/project_module?f[2]=im_vid_3%3A75">Utility</a></span></li>
+          <li>Reported installs: <strong>162</strong> sites currently report using this module. <a href="/project/usage/bmi">View usage statistics</a>.</li>
+          <li>Downloads: 4,224</li>
+              <li class="modified">Last modified: December 2, 2014</li>
+      </ul>
+</div>
+<h3>Downloads</h3><div class="view view-project-release-download-table view-id-project_release_download_table view-display-id-recommended view-dom-id-726bddb007097ebae54fdfd5294ddf67">
+            <div class="view-header">
+      <h4>Recommended releases</h4>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-4">
+         <thead>
+      <tr>
+                  <th class="views-field views-field-field-release-version">
+            Version          </th>
+                  <th class="views-field views-field-extension">
+            Download          </th>
+                  <th class="views-field views-field-timestamp">
+            Date          </th>
+                  <th class="views-field views-field-view-node">
+            Links          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="odd views-row-first views-row-last">
+                  <td class="views-field views-field-field-release-version" data-th="Version">
+            <a href="https://www.drupal.org/node/1926588">7.x-1.1</a>          </td>
+                  <td class="views-field views-field-extension" data-th="Download">
+            <a href="http://ftp.drupal.org/files/projects/bmi-7.x-1.1.tar.gz">tar.gz <span class="filesize">(10.01 KB)</span></a> | <a href="http://ftp.drupal.org/files/projects/bmi-7.x-1.1.zip">zip <span class="filesize">(10.98 KB)</span></a>          </td>
+                  <td class="views-field views-field-timestamp" data-th="Date">
+            2013-Feb-25          </td>
+                  <td class="views-field views-field-view-node" data-th="Links">
+            <a href="/node/1926588">Notes</a>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+      <div class="attachment attachment-after">
+      <div class="view view-project-release-download-table view-id-project_release_download_table view-display-id-security">
+        
+  
+  
+  
+  
+  
+  
+  
+  
+</div><div class="view view-project-release-download-table view-id-project_release_download_table view-display-id-other">
+            <div class="view-header">
+      <h4>Other releases</h4>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-4">
+         <thead>
+      <tr>
+                  <th class="views-field views-field-field-release-version">
+            Version          </th>
+                  <th class="views-field views-field-extension">
+            Download          </th>
+                  <th class="views-field views-field-timestamp">
+            Date          </th>
+                  <th class="views-field views-field-view-node">
+            Links          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="odd views-row-first views-row-last">
+                  <td class="views-field views-field-field-release-version" data-th="Version">
+            <a href="https://www.drupal.org/node/821332">6.x-1.0</a>          </td>
+                  <td class="views-field views-field-extension" data-th="Download">
+            <a href="http://ftp.drupal.org/files/projects/bmi-6.x-1.0.tar.gz">tar.gz <span class="filesize">(8.47 KB)</span></a> | <a href="http://ftp.drupal.org/files/projects/bmi-6.x-1.0.zip">zip <span class="filesize">(9.56 KB)</span></a>          </td>
+                  <td class="views-field views-field-timestamp" data-th="Date">
+            2010-Jun-08          </td>
+                  <td class="views-field views-field-view-node" data-th="Links">
+            <a href="/node/821332">Notes</a>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div><div class="view view-project-release-download-table view-id-project_release_download_table view-display-id-development">
+            <div class="view-header">
+      <h4>Development releases</h4>
+    </div>
+  
+  
+  
+      <div class="view-content">
+      <table class="views-table cols-4">
+         <thead>
+      <tr>
+                  <th class="views-field views-field-field-release-version">
+            Version          </th>
+                  <th class="views-field views-field-extension">
+            Download          </th>
+                  <th class="views-field views-field-timestamp">
+            Date          </th>
+                  <th class="views-field views-field-view-node">
+            Links          </th>
+              </tr>
+    </thead>
+    <tbody>
+          <tr class="odd views-row-first">
+                  <td class="views-field views-field-field-release-version" data-th="Version">
+            <a href="https://www.drupal.org/node/1926590">7.x-1.x-dev</a>          </td>
+                  <td class="views-field views-field-extension" data-th="Download">
+            <a href="http://ftp.drupal.org/files/projects/bmi-7.x-1.x-dev.tar.gz">tar.gz <span class="filesize">(10.03 KB)</span></a> | <a href="http://ftp.drupal.org/files/projects/bmi-7.x-1.x-dev.zip">zip <span class="filesize">(10.99 KB)</span></a>          </td>
+                  <td class="views-field views-field-timestamp" data-th="Date">
+            2013-Sep-30          </td>
+                  <td class="views-field views-field-view-node" data-th="Links">
+            <a href="/node/1926590">Notes</a>          </td>
+              </tr>
+          <tr class="even views-row-last">
+                  <td class="views-field views-field-field-release-version" data-th="Version">
+            <a href="https://www.drupal.org/node/821338">6.x-1.x-dev</a>          </td>
+                  <td class="views-field views-field-extension" data-th="Download">
+            <a href="http://ftp.drupal.org/files/projects/bmi-6.x-1.x-dev.tar.gz">tar.gz <span class="filesize">(9.08 KB)</span></a> | <a href="http://ftp.drupal.org/files/projects/bmi-6.x-1.x-dev.zip">zip <span class="filesize">(9.67 KB)</span></a>          </td>
+                  <td class="views-field views-field-timestamp" data-th="Date">
+            2013-Sep-30          </td>
+                  <td class="views-field views-field-view-node" data-th="Links">
+            <a href="/node/821338">Notes</a>          </td>
+              </tr>
+      </tbody>
+</table>
+    </div>
+  
+  
+  
+  
+  
+  
+</div>    </div>
+  
+  
+  
+  
+</div><ul class="links"><li class="view_all_releases first last"><a href="/node/821330/release">View all releases</a>
+
+
+
+<script>
+$('#edit-submit').hide() ; 
+</script>

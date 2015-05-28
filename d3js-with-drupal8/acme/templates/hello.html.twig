@@ -1,0 +1,129 @@
+<!DOCTYPE html>
+<meta charset="utf-8">
+<style>
+
+svg {
+  font: 10px sans-serif;
+}
+
+.line {
+  fill: none;
+  stroke: red ;
+  stroke-width: 1.5px;
+}
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: black ; 
+  shape-rendering: crispEdges;
+  color: red ; 
+}
+
+</style>
+<body>
+
+Applying a colour gradient to a graph line in d3.js
+</h3>
+<div class="post-header">
+<div class="post-header-line-1"></div>
+</div>
+<div class="post-body entry-content" id="post-body-8419236236747177869" itemprop="description articleBody">
+The following post is a portion of the D3 Tips and Tricks document which it free to download. To use this post in context, consider it with the others in the blog or just download the pdf &nbsp;and / or the examples from the&nbsp;<a href="http://www.d3noob.org/p/d3noob-downloads.html">downloads page</a>:-)<br>
+<div style="text-align: center;">
+--------------------------------------------------------</div>
+<br>
+<div class="western">
+I just know that you were impressed with the changing dots in a scatter plot based on the value in the previous example. But could we could one better?</div>
+<div class="western">
+<br></div>
+<div class="western">
+How about we try to reproduce the same effect but by varying the colour of the plotted line.</div>
+<div class="western">
+This is a neat feature and a useful example of the flexibility of d3.js and svg in general.</div>
+<div class="western">
+<br></div>
+<div class="western">
+I used the appropriate bits of code from Mike Bostock's Threshold Encoding example here <a href="http://bl.ocks.org/3970883">http://bl.ocks.org/3970883</a>. And I should take the opportunity to heartily recommend browsing through his collection of examples on bl.ocks.org (http://bl.ocks.org/mbostock).</div>
+<div class="western">
+<br></div>
+<div class="western">
+Here then is a plotted line that is red below 400, green above 620 and black in between.</div>
+
+
+<div id='view'></div>
+<script src="http://d3js.org/d3.v3.min.js"></script>
+<script>
+
+var n = 100,
+    random = d3.random.normal(0, .2),
+    data = d3.range(n).map(random);
+
+var margin = {top: 20, right: 20, bottom: 20, left: 40},
+    width = 900 - margin.left - margin.right,
+    height = 500 - margin.top - margin.bottom;
+
+var x = d3.scale.linear()
+    .domain([0, n - 1])
+    .range([0, width]);
+
+var y = d3.scale.linear()
+    .domain([-0.6,0.6])
+    .range([height, 0]);
+
+var line = d3.svg.line()
+    .x(function(d, i) { return x(i); })
+    .y(function(d, i) { return y(d); })
+    .interpolate("basis");
+
+var svg = d3.select("#view").append("svg")
+    .attr("width", width + margin.left + margin.right)
+    .attr("height", height + margin.top + margin.bottom)
+  .append("g")
+    .attr("transform", "translate(" + margin.left + "," + margin.top + ")");
+
+svg.append("defs").append("clipPath")
+    .attr("id", "clip")
+  .append("rect")
+    .attr("width", width)
+    .attr("height", height);
+
+svg.append("g")
+    .attr("class", "x axis")
+    .attr("transform", "translate(0," + y(0) + ")")
+    .call(d3.svg.axis().scale(x).orient("bottom"));
+
+svg.append("g")
+    .attr("class", "y axis")
+    .call(d3.svg.axis().scale(y).orient("left"));
+
+var path = svg.append("g")
+    .attr("clip-path", "url(#clip)")
+  .append("path")
+    .datum(data)
+    .attr("class", "line")
+    .attr("d", line);
+
+tick();
+
+function tick() {
+
+  // push a new data point onto the back
+  data.push(random());
+
+  // redraw the line, and slide it to the left
+  path
+      .attr("d", line)
+      .attr("transform", null)
+    .transition()
+      .duration(5000)
+      .ease("linear")
+      .attr("transform", "translate(" + x(-1) + ",0)")
+      .each("end", tick);
+
+  // pop the old data point off the front
+  data.shift();
+
+}
+
+</script>

@@ -1,0 +1,8 @@
+salut.default_controller_hello:
+  path: 'salut/hello/{name}'
+  defaults:
+    _controller: '\Drupal\salut\Controller\DefaultController::hello'
+    _title: 'salut Title'
+  requirements:
+    _permission: 'access content'
+

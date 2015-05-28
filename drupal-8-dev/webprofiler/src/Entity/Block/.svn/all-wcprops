@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Entity/Block
+END
+BlockDecorator.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Entity/Block/BlockDecorator.php
+END
+BlockViewBuilderDecorator.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Entity/Block/BlockViewBuilderDecorator.php
+END
+BlockStorageDecorator.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Entity/Block/BlockStorageDecorator.php
+END

@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/projet/!svn/ver/307/drupal-8-dev/date
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projet/!svn/ver/307/drupal-8-dev/date/CHANGELOG.txt
+END
+date.info
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/projet/!svn/ver/307/drupal-8-dev/date/date.info
+END
+date.field.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/307/drupal-8-dev/date/date.field.inc
+END
+date.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/projet/!svn/ver/307/drupal-8-dev/date/date.api.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/projet/!svn/ver/307/drupal-8-dev/date/README.txt
+END
+date.theme
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/projet/!svn/ver/307/drupal-8-dev/date/date.theme
+END
+date_elements.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projet/!svn/ver/307/drupal-8-dev/date/date_elements.inc
+END
+date.install
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/projet/!svn/ver/307/drupal-8-dev/date/date.install
+END
+date.tokens.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/307/drupal-8-dev/date/date.tokens.inc
+END
+date.js
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/projet/!svn/ver/307/drupal-8-dev/date/date.js
+END
+date.devel_generate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/307/drupal-8-dev/date/date.devel_generate.inc
+END
+date_admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/307/drupal-8-dev/date/date_admin.inc
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projet/!svn/ver/307/drupal-8-dev/date/LICENSE.txt
+END
+date_admin.js
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projet/!svn/ver/307/drupal-8-dev/date/date_admin.js
+END
+date.module
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projet/!svn/ver/307/drupal-8-dev/date/date.module
+END

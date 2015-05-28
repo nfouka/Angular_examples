@@ -1,0 +1,47 @@
+/**
+ * General CSS
+ */
+
+.webprofiler .content {
+    float: left;
+    width: 100%;
+}
+
+.webprofiler h3 {
+  margin-top: 20px;
+}
+
+.webprofiler .title h2 {
+    border-bottom: 1px solid #CCCCCC;
+    padding-bottom: 10px;
+}
+
+/**
+ * List profiles
+ */
+
+#webprofiler-profiles-filter {
+    margin-bottom: 20px;
+}
+
+#webprofiler-profiles-filter .form-item {
+    float: left;
+    margin-right: 0.25em;
+}
+
+#webprofiler-profiles-filter #edit-actions {
+    clear: left;
+}
+
+/**
+ * Cache
+ */
+
+.cache-data .cache-data-cid {
+    width: 80%;
+}
+
+.cache-data .cache-data-hit,
+.cache-data .cache-data-miss {
+    width: 10%;
+}

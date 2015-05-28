@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projet/!svn/ver/305/drupal-angular/modules/syslog
+END
+syslog.module
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/305/drupal-angular/modules/syslog/syslog.module
+END
+syslog.install
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/305/drupal-angular/modules/syslog/syslog.install
+END
+syslog.info
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/305/drupal-angular/modules/syslog/syslog.info
+END
+syslog.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/305/drupal-angular/modules/syslog/syslog.test
+END

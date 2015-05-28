@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/devel/devel_generate
+END
+file.devel_generate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/devel/devel_generate/file.devel_generate.inc
+END
+devel_generate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/devel/devel_generate/devel_generate.inc
+END
+devel_generate_batch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/devel/devel_generate/devel_generate_batch.inc
+END
+image.devel_generate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/devel/devel_generate/image.devel_generate.inc
+END
+devel_generate.info
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/devel/devel_generate/devel_generate.info
+END
+text.devel_generate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/devel/devel_generate/text.devel_generate.inc
+END
+devel_generate.drush.inc
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/devel/devel_generate/devel_generate.drush.inc
+END
+devel_generate.fields.inc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/devel/devel_generate/devel_generate.fields.inc
+END
+devel_generate.test
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/devel/devel_generate/devel_generate.test
+END
+number.devel_generate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/devel/devel_generate/number.devel_generate.inc
+END
+list.devel_generate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/devel/devel_generate/list.devel_generate.inc
+END
+devel_generate.module
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/devel/devel_generate/devel_generate.module
+END
+taxonomy.devel_generate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 109
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/devel/devel_generate/taxonomy.devel_generate.inc
+END

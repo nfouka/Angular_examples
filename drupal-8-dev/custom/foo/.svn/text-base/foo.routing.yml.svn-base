@@ -1,0 +1,15 @@
+foo.default_controller_hello:
+  path: 'foo/hello/{name}'
+  defaults:
+    _controller: '\Drupal\foo\Controller\DefaultController::hello'
+    _title: 'Foo Form Title'
+  requirements:
+    _permission: 'access content'
+
+foo.default_form:
+  path: '/foo/settings/DefaultForm'
+  defaults:
+    _form: '\Drupal\foo\Form\DefaultForm'
+    _title: 'DefaultForm'
+  requirements:
+    _permission: 'access content'

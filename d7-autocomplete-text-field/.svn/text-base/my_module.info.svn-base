@@ -1,0 +1,4 @@
+name = simple form
+description = A dimple module for drupal 7.x
+core = 7.x
+files[] = my_module.module

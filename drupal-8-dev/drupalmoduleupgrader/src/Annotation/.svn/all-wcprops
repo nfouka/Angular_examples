@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/src/Annotation
+END
+Cleaner.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/src/Annotation/Cleaner.php
+END
+Indexer.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/src/Annotation/Indexer.php
+END
+Rewriter.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/src/Annotation/Rewriter.php
+END
+Analyzer.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/src/Annotation/Analyzer.php
+END
+Converter.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/src/Annotation/Converter.php
+END

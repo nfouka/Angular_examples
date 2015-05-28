@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/src/Plugin/DevelGenerate
+END
+TermDevelGenerate.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/src/Plugin/DevelGenerate/TermDevelGenerate.php
+END
+VocabularyDevelGenerate.php
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/src/Plugin/DevelGenerate/VocabularyDevelGenerate.php
+END
+ContentDevelGenerate.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/src/Plugin/DevelGenerate/ContentDevelGenerate.php
+END
+UserDevelGenerate.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/src/Plugin/DevelGenerate/UserDevelGenerate.php
+END
+MenuDevelGenerate.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/src/Plugin/DevelGenerate/MenuDevelGenerate.php
+END

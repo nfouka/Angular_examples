@@ -1,0 +1,6 @@
+name: Summary
+description: 'Summary from Atelier Drupal.'
+core: 8.x
+version: 7.x-0.x-dev
+package: 'Zaff Atelier Drupal'
+type: module

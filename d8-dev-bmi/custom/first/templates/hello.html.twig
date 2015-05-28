@@ -1,0 +1,37 @@
+<style>
+    *{
+        font-family: helvetica ; 
+    }   
+    
+    #fo{
+        font-size: 25px ; 
+    }
+    #page-title{
+        font-size: 40px ; 
+    }
+    #value_calculate_wrapper{
+        font-size: 40px ; 
+    }
+    strong{
+        color: red ; 
+    }
+</style>
+
+ <script src="https://code.jquery.com/jquery-1.10.2.js"></script>
+ 
+ 
+ 
+ <fieldset>
+     <legend>Calculator With Drupal 8 </legend>
+
+<div id="value_a">{{form.value_a}}</div>
+<div id="operation">{{form.weight_units}}</div>
+<div id="value_b">{{form.value_b}}</div>
+
+<div id="result">{{form.result}}</div>
+<img src="./../../../modules/custom/first/icone/ajax-loader.gif" id="ajax">
+<input type='button' name="bbb" id="bbb" value="Calculer Valeur " onclick="go()" style="font-size: 25px;"/>
+
+</fieldset> 
+
+<script src="./../../../modules/custom/first/templates/js/js.js"></script>

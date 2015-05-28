@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projet/!svn/ver/307/drupal-8-dev/devel/tests/devel_test
+END
+devel_test.links.task.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/307/drupal-8-dev/devel/tests/devel_test/devel_test.links.task.yml
+END
+devel_test.module
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projet/!svn/ver/307/drupal-8-dev/devel/tests/devel_test/devel_test.module
+END
+devel_test.routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projet/!svn/ver/307/drupal-8-dev/devel/tests/devel_test/devel_test.routing.yml
+END
+devel_test.info.yml
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projet/!svn/ver/307/drupal-8-dev/devel/tests/devel_test/devel_test.info.yml
+END

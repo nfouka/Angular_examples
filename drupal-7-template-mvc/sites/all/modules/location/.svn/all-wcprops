@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location
+END
+location_autocomplete.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location_autocomplete.js
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/.gitignore
+END
+location_distance.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location_distance.tpl.php
+END
+location_node.info
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location_node.info
+END
+location.migrate.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location.migrate.inc
+END
+location.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location.admin.inc
+END
+location_user.install
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location_user.install
+END
+CREDITS.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/CREDITS.txt
+END
+earth.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/earth.inc
+END
+location.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location.views.inc
+END
+location.install
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location.install
+END
+location_API.txt
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location_API.txt
+END
+locations.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/locations.tpl.php
+END
+location.inc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location.inc
+END
+location.views_default.inc
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location.views_default.inc
+END
+location.georss.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location.georss.inc
+END
+location.tokens.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location.tokens.inc
+END
+location_node.install
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location_node.install
+END
+TODO-3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/TODO-3.txt
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/INSTALL.txt
+END
+sniffers.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/sniffers.sh
+END
+location_user.module
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location_user.module
+END
+location.module
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location.module
+END
+location.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location.tpl.php
+END
+location.token.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location.token.inc
+END
+location.css
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location.css
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/LICENSE.txt
+END
+location_user.info
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location_user.info
+END
+location_node.module
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location_node.module
+END
+location.info
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/location.info
+END

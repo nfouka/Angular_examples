@@ -1,0 +1,7 @@
+jquery.masonry: # the machine name of library.
+  version: 2.1 # the version of the library.
+  js:
+    /libraries/masonry/jquery.masonry.min.js: {} # path to js the source with additional parameters.
+    js/calculator.js
+  dependencies:
+    - core/jquery # required dependencies.

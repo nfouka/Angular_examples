@@ -1,0 +1,20 @@
+
+<script src='http://code.jquery.com/jquery-1.10.2.js'></script>
+<div>La somme est {{ somme }}</div>
+
+
+<DIV>request {{ request }}</div>
+<div>Your ip adress {{ valueIp }}</div>
+
+
+
+<div>Members of Collection</div>
+<ul>
+    {% for user in collection %}
+        <li>LastName   : {{ user.lastName }}</li>
+        <li>FirstName  : {{ user.firstName }}</li>
+        <li>adress     : {{ user.adress }}</li>
+        <li>adress     : <a href="#">Link</a></li>
+    {% endfor %}
+</ul>
+

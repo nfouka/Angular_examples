@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views_datasource/views
+END
+views_rdf.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views_datasource/views/views_rdf.views.inc
+END
+views_xhtml.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views_datasource/views/views_xhtml.views.inc
+END
+views_xml.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views_datasource/views/views_xml.views.inc
+END
+views_json.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views_datasource/views/views_json.views.inc
+END

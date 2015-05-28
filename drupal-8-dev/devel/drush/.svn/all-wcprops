@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/projet/!svn/ver/307/drupal-8-dev/devel/drush
+END
+phpstorm.drush.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/307/drupal-8-dev/devel/drush/phpstorm.drush.inc
+END
+devel.drush.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projet/!svn/ver/307/drupal-8-dev/devel/drush/devel.drush.inc
+END
+develDrushTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/307/drupal-8-dev/devel/drush/develDrushTest.php
+END

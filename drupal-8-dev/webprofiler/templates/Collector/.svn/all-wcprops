@@ -1,0 +1,119 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector
+END
+routing.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/routing.html.twig
+END
+drupal.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/drupal.html.twig
+END
+request.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/request.html.twig
+END
+block.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/block.html.twig
+END
+views.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/views.html.twig
+END
+time.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/time.html.twig
+END
+extensions.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/extensions.html.twig
+END
+service.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/service.html.twig
+END
+form.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/form.html.twig
+END
+cache.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/cache.html.twig
+END
+events.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/events.html.twig
+END
+database.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/database.html.twig
+END
+config.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/config.html.twig
+END
+php_config.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/php_config.html.twig
+END
+user.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/user.html.twig
+END
+http.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/http.html.twig
+END
+frontend.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/frontend.html.twig
+END
+asset.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/asset.html.twig
+END
+state.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Collector/state.html.twig
+END

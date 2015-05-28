@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/rdf
+END
+rdf.module
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/rdf/rdf.module
+END
+rdf.install
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/rdf/rdf.install
+END
+rdf.info
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/rdf/rdf.info
+END
+rdf.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/rdf/rdf.api.php
+END
+rdf.test
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/rdf/rdf.test
+END

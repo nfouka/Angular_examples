@@ -1,0 +1,8 @@
+name = Real Estate Mortgage Calculator
+
+; Information added by drupal.org packaging script on 2013-10-14
+version = "8.x-1.0-alpha1"
+core = "8.x"
+project = "mortgage_calculator"
+datestamp = "1381743780"
+

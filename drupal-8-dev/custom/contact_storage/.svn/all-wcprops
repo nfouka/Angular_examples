@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projet/!svn/ver/307/drupal-8-dev/custom/contact_storage
+END
+contact_storage.routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projet/!svn/ver/307/drupal-8-dev/custom/contact_storage/contact_storage.routing.yml
+END
+contact_storage.info.yml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/307/drupal-8-dev/custom/contact_storage/contact_storage.info.yml
+END
+contact_storage.links.task.yml
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projet/!svn/ver/307/drupal-8-dev/custom/contact_storage/contact_storage.links.task.yml
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projet/!svn/ver/307/drupal-8-dev/custom/contact_storage/LICENSE.txt
+END
+contact_storage.module
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projet/!svn/ver/307/drupal-8-dev/custom/contact_storage/contact_storage.module
+END
+contact_storage.install
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/307/drupal-8-dev/custom/contact_storage/contact_storage.install
+END

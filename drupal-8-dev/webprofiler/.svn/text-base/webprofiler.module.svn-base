@@ -1,0 +1,79 @@
+<?php
+
+/**
+ * @file
+ * Legacy Webprofiler module file.
+ */
+
+/**
+ * Implements hook_theme().
+ */
+function webprofiler_theme() {
+  return array(
+    'webprofiler_loader' => array(
+      'template' => 'Profiler/webprofiler_loader',
+      'variables' => array('token' => NULL, 'profiler_url' => NULL),
+    ),
+    'webprofiler_toolbar' => array(
+      'template' => 'Profiler/webprofiler_toolbar',
+      'variables' => array(
+        'token' => NULL,
+        'templates' => array(),
+        'profile' => NULL,
+        'profiler_url' => NULL),
+    ),
+    'webprofiler_panel' => array(
+      'template' => 'Profiler/webprofiler_panel',
+      'variables' => array(
+        'template' => array(),
+        'profile' => NULL,
+        'name' => NULL,
+        'summary' => NULL,
+        'content' => NULL,
+      ),
+    ),
+    'webprofiler_resume' => array(
+      'template' => 'Profiler/webprofiler_resume',
+      'variables' => array(
+        'template' => array(),
+        'profile' => NULL,
+        'name' => NULL,
+      ),
+    ),
+    'webprofiler_db_panel' => array(
+      'template' => 'Profiler/webprofiler_db_panel',
+      'variables' => array(
+        'query' => NULL,
+        'table' => NULL,
+        'explain' => FALSE,
+        'query_type' => NULL,
+        'position' => NULL,
+      ),
+    ),
+  );
+}
+
+/**
+ * Implements hook_file_download().
+ */
+function webprofiler_file_download($uri) {
+  $scheme = file_uri_scheme($uri);
+  $target = file_uri_target($uri);
+  if ($scheme == 'temporary' && $target == 'profiles.tar.gz') {
+    return array(
+      'Content-disposition' => 'attachment; filename="profiles.tar.gz"',
+    );
+  }
+}
+
+/**
+ * Implements hook_cache_flush().
+ */
+function webprofiler_cache_flush() {
+  $config = \Drupal::configFactory()->get('webprofiler.config');
+
+  if ($config->get('purge_on_cache_clear')) {
+    $profiler = \Drupal::service('profiler');
+    $profiler->purge();
+  }
+}

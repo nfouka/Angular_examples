@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/src
+END
+DevelGeneratePluginManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/src/DevelGeneratePluginManager.php
+END
+DevelGenerateBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/src/DevelGenerateBase.php
+END
+DevelGenerateBaseInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/src/DevelGenerateBaseInterface.php
+END
+DevelGeneratePermissions.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/src/DevelGeneratePermissions.php
+END
+DevelGenerateException.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/src/DevelGenerateException.php
+END

@@ -1,0 +1,95 @@
+<?php
+
+
+
+function summary_menu(){
+
+
+
+
+
+
+$items['summary'] = array(
+	'title' => 'APPLICATION WITH DRUPAL 7 DEV.',
+	'page callback' => 'summary_page',
+	'access arguments' => array('access content'),
+	'type' => MENU_NORMAL_ITEM,
+);
+
+$items['summary/info'] = array(
+	'title' => 'APPLICATION WITH DRUPAL 7 DEV.',
+	'page callback' => 'summary_info_page',
+	'access arguments' => array('access content'),
+	'type' => MENU_NORMAL_ITEM,
+);
+
+$items['summary/plus'] = array(
+	'title' => 'APPLICATION WITH DRUPAL 7 DEV.',
+	'page callback' => 'summary_plus_page',
+	'access arguments' => array('access content'),
+	'type' => MENU_NORMAL_ITEM,
+);
+
+	return $items ; 
+}
+
+/*
+* Content of the summary page
+*/
+function summary_content() {
+	
+return 'Hello World ça marche trés bien !!!';
+}
+
+
+function summary_theme(){
+
+$template  = 'summary' ; 
+
+//List of all activated modules
+$summary_module_list = module_list();
+$summary_module_list = t('<h3>List of all activated modules</h3>') .
+implode($summary_module_list,', ');
+$output = $summary_module_list;
+
+return array(
+
+        'views_template' => array(
+                'template' => $template ,
+            ),
+        'views_template_info' => array(
+                'template' => 'info' ,
+            ),
+        'views_template_plus' => array(
+                'template' => 'plus' ,
+              	'variables' => array('name' => $output ),
+            ), 
+
+    ) ; 
+}
+
+function summary_page(){
+
+    return theme('views_template') ; 
+}
+
+function summary_info_page(){
+
+    return theme('views_template_info') ; 
+}
+
+function summary_plus_page(){
+
+    return theme('views_template_plus') ; 
+}
+
+
+
+function summary_help($path, $arg){
+switch ($path) {
+case 'admin/help#summary':
+return '<p>'.t('Sample module from Atelier Drupal book. This module
+provide a summary page of your Drupal Installation.') . '</p>';
+}
+}
+

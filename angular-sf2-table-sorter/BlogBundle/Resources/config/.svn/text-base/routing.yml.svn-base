@@ -1,0 +1,6 @@
+app_blog_homepage:
+    path:     /hello
+    defaults: { _controller: AppBlogBundle:Default:index }
+app_blog_homepage_angular:
+    path:     /angular
+    defaults: { _controller: AppBlogBundle:Default:angular }

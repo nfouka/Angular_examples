@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src
+END
+DrupalDataCollectorInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DrupalDataCollectorInterface.php
+END
+WebprofilerServiceProvider.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/WebprofilerServiceProvider.php
+END
+Stopwatch.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Stopwatch.php
+END
+WebprofilerMiddleware.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/WebprofilerMiddleware.php
+END
+Decorator.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Decorator.php
+END

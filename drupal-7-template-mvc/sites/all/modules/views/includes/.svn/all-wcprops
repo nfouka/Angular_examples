@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/includes
+END
+admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/includes/admin.inc
+END
+base.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/includes/base.inc
+END
+view.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/includes/view.inc
+END
+handlers.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/includes/handlers.inc
+END
+plugins.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/includes/plugins.inc
+END
+ajax.inc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/includes/ajax.inc
+END
+analyze.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/includes/analyze.inc
+END
+cache.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/includes/cache.inc
+END

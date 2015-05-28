@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views
+END
+D7UPGRADE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/D7UPGRADE.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/LICENSE.txt
+END
+views.module
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/views.module
+END
+views.install
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/views.install
+END
+views_ui.info
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/views_ui.info
+END
+views.info
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/views.info
+END
+views.tokens.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/views.tokens.inc
+END
+documentation-standards.txt
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/documentation-standards.txt
+END
+views.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/views.api.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/README.txt
+END
+views_ui.module
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/views/views_ui.module
+END

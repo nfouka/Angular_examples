@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/database/mysql
+END
+database.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/database/mysql/database.inc
+END
+query.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/database/mysql/query.inc
+END
+install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/database/mysql/install.inc
+END
+schema.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/database/mysql/schema.inc
+END

@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/335/d7-angular-namespace-poo/src/DataSource
+END
+CrudClientInterface.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projet/!svn/ver/335/d7-angular-namespace-poo/src/DataSource/CrudClientInterface.php
+END
+EntityManagerClient.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projet/!svn/ver/335/d7-angular-namespace-poo/src/DataSource/EntityManagerClient.php
+END

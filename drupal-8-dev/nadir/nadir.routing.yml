@@ -1,0 +1,16 @@
+nadir.default_controller_hello:
+  path: 'nadir/hello/{name}'
+  defaults:
+    _controller: '\Drupal\nadir\Controller\DefaultController::hello'
+    _title: 'nadir Title'
+  requirements:
+    _permission: 'access content'
+
+nadir.insert_data_form_settings:
+  path: '/nadir/settings/InsertDataFormSettings'
+  defaults:
+    _form: '\Drupal\nadir\Form\InsertDataFormSettings'
+    _title: 'Insert Data Form Settings'
+  requirements:
+    _permission: 'access content'
+

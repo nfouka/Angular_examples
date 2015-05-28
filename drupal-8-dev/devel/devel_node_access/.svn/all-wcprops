@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_node_access
+END
+devel_node_access.module
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_node_access/devel_node_access.module
+END
+devel_node_access.install
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_node_access/devel_node_access.install
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_node_access/README.txt
+END
+devel_node_access.info.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_node_access/devel_node_access.info.yml
+END
+devel_node_access.permissions.yml
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_node_access/devel_node_access.permissions.yml
+END
+devel_node_access.js
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_node_access/devel_node_access.js
+END
+devel_node_access.libraries.yml
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_node_access/devel_node_access.libraries.yml
+END
+devel_node_access.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_node_access/devel_node_access.api.php
+END

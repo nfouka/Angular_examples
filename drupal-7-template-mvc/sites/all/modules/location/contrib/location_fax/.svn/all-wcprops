@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/contrib/location_fax
+END
+location_fax.module
+K 25
+svn:wc:ra_dav:version-url
+V 110
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/contrib/location_fax/location_fax.module
+END
+location_fax.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 113
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/contrib/location_fax/location_fax.views.inc
+END
+location_fax.install
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/contrib/location_fax/location_fax.install
+END
+location_fax.info
+K 25
+svn:wc:ra_dav:version-url
+V 108
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/contrib/location_fax/location_fax.info
+END

@@ -1,0 +1,46 @@
+first.default_controller_hello:
+  path: '/first/hello/{name}'
+  defaults:
+    _controller: '\Drupal\first\Controller\DefaultController::hello'
+    _title: '<h1 style="font-size:15px;">First Title With Module D8</h1>'
+  requirements:
+    _permission: 'access content'
+
+first.default_controller_calc:
+  path: '/first/calc/{name}'
+  defaults:
+    _controller: '\Drupal\first\Controller\DefaultController::calc'
+    _title: '<h1 style="font-size:15px;">First Title With Module D8</h1>'
+  requirements:
+    _permission: 'access content'
+
+first.default_form:
+  path: '/first/settings/DefaultForm'
+  defaults:
+    _form: '\Drupal\first\Form\DefaultForm'
+    _title: 'DefaultForm'
+  requirements:
+     _permission: 'access content'
+
+first.default_form_caculette:
+  path: '/first/settings/DefaultFormCalculette'
+  defaults:
+    _form: '\Drupal\first\Form\CalculetteForm'
+    _title: 'DefaultForm'
+  requirements:
+     _permission: 'access content'
+
+first.calculator_form:
+  path: '/first/settings/calculatorForm'
+  defaults:
+    _form: '\Drupal\first\Form\calculatorForm'
+    _title: 'calculatorForm'
+  requirements:
+    _permission: 'access content'
+first.calculatrice_u_i_form:
+  path: '/first/settings/CalculatriceUIForm'
+  defaults:
+    _form: '\Drupal\first\Form\CalculatriceUIForm'
+    _title: 'CalculatriceUIForm'
+  requirements:
+    _permission: 'access content'

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/openid/tests
+END
+openid_test.module
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/openid/tests/openid_test.module
+END
+openid_test.install
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/openid/tests/openid_test.install
+END
+openid_test.info
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/openid/tests/openid_test.info
+END

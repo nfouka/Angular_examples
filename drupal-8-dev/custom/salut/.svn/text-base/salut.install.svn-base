@@ -1,0 +1,47 @@
+<?php
+
+
+
+function salut_schema() {
+
+
+
+
+
+$message ='This is a simple message error .... ' ; 
+\Drupal::logger('salut')->notice('Message notice :-)');
+\Drupal::logger('salut')->error('Message erreur :-(');
+
+
+$schema['bd_salut_nadir'] = array(
+
+		'fields' => array(
+			'nadir_id' => array(
+			'type' => 'serial',
+			'not null' => TRUE,
+			),
+			'nadir_name' => array(
+			'type' => 'varchar',
+			'length' => 64,
+			'not null' => TRUE,
+			),
+			'nadir_adress' => array(
+			'type' => 'varchar',
+			'length' => 250,
+			'not null' => TRUE,
+			),
+			'nadir_code_postale' => array(
+			'type' => 'int',
+			'not null' => TRUE,
+			),
+			'nadir_comment' => array(
+			'type' => 'text',
+			'length' => 1550,
+			'not null' => TRUE,
+			)
+		),
+		'primary key' => array('nadir_id'),
+		);
+		return $schema;
+
+}

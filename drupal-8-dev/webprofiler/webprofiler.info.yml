@@ -1,0 +1,12 @@
+name: Web Profiler
+type: module
+description: 'Drupal Web Profiler.'
+package: Development
+# core: 8.x
+configure: webprofiler.admin_configure
+
+# Information added by Drupal.org packaging script on 2015-02-26
+version: '8.x-1.1-beta7'
+core: '8.x'
+project: 'webprofiler'
+datestamp: 1424942883

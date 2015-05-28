@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/projet/!svn/ver/305/drupal-angular/includes
+END
+graph.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/305/drupal-angular/includes/graph.inc
+END
+utility.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projet/!svn/ver/305/drupal-angular/includes/utility.inc
+END
+cache.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/305/drupal-angular/includes/cache.inc
+END
+archiver.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projet/!svn/ver/305/drupal-angular/includes/archiver.inc
+END
+menu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/305/drupal-angular/includes/menu.inc
+END
+batch.queue.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/305/drupal-angular/includes/batch.queue.inc
+END
+xmlrpc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projet/!svn/ver/305/drupal-angular/includes/xmlrpc.inc
+END
+cache-install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/305/drupal-angular/includes/cache-install.inc
+END
+date.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/305/drupal-angular/includes/date.inc
+END
+bootstrap.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projet/!svn/ver/305/drupal-angular/includes/bootstrap.inc
+END
+stream_wrappers.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/305/drupal-angular/includes/stream_wrappers.inc
+END
+file.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/305/drupal-angular/includes/file.inc
+END
+token.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/305/drupal-angular/includes/token.inc
+END
+mail.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/305/drupal-angular/includes/mail.inc
+END
+update.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projet/!svn/ver/305/drupal-angular/includes/update.inc
+END
+ajax.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/305/drupal-angular/includes/ajax.inc
+END
+theme.maintenance.inc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projet/!svn/ver/305/drupal-angular/includes/theme.maintenance.inc
+END
+session.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projet/!svn/ver/305/drupal-angular/includes/session.inc
+END
+module.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projet/!svn/ver/305/drupal-angular/includes/module.inc
+END
+common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projet/!svn/ver/305/drupal-angular/includes/common.inc
+END
+file.mimetypes.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/305/drupal-angular/includes/file.mimetypes.inc
+END
+iso.inc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projet/!svn/ver/305/drupal-angular/includes/iso.inc
+END
+path.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/305/drupal-angular/includes/path.inc
+END
+actions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projet/!svn/ver/305/drupal-angular/includes/actions.inc
+END
+password.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projet/!svn/ver/305/drupal-angular/includes/password.inc
+END
+theme.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/305/drupal-angular/includes/theme.inc
+END
+form.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/305/drupal-angular/includes/form.inc
+END
+json-encode.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/305/drupal-angular/includes/json-encode.inc
+END
+updater.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projet/!svn/ver/305/drupal-angular/includes/updater.inc
+END
+install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projet/!svn/ver/305/drupal-angular/includes/install.inc
+END
+registry.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projet/!svn/ver/305/drupal-angular/includes/registry.inc
+END
+unicode.entities.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/305/drupal-angular/includes/unicode.entities.inc
+END
+authorize.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projet/!svn/ver/305/drupal-angular/includes/authorize.inc
+END
+entity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projet/!svn/ver/305/drupal-angular/includes/entity.inc
+END
+errors.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projet/!svn/ver/305/drupal-angular/includes/errors.inc
+END
+batch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/305/drupal-angular/includes/batch.inc
+END
+image.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/305/drupal-angular/includes/image.inc
+END
+language.inc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projet/!svn/ver/305/drupal-angular/includes/language.inc
+END
+unicode.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projet/!svn/ver/305/drupal-angular/includes/unicode.inc
+END
+xmlrpcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/projet/!svn/ver/305/drupal-angular/includes/xmlrpcs.inc
+END
+lock.inc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/projet/!svn/ver/305/drupal-angular/includes/lock.inc
+END
+install.core.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projet/!svn/ver/305/drupal-angular/includes/install.core.inc
+END
+pager.inc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/305/drupal-angular/includes/pager.inc
+END
+tablesort.inc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projet/!svn/ver/305/drupal-angular/includes/tablesort.inc
+END
+locale.inc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projet/!svn/ver/305/drupal-angular/includes/locale.inc
+END

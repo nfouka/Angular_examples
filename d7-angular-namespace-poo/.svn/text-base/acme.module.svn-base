@@ -1,0 +1,184 @@
+<?php
+
+
+use Drupal\acme\Model\Client;
+use Drupal\acme\DataSource\EntityManagerClient;
+
+
+function acme_menu() {
+	
+	
+
+	
+	
+  $items = array();
+  $items['my_module/form'] = array(
+    'title' => t('A Simple Form With API Form Drupal 7'),
+    'page callback' => 'acme_form',
+    'access arguments' => array('access content'),
+    'description' => t('My form'),
+    'type' => MENU_CALLBACK,
+  );
+  
+  $items['my_module/all'] = array(
+  		'title' => t('A Simple Form With API Form Drupal 7'),
+  		'page callback' => 'acme_all',
+  		'access arguments' => array('access content'),
+  		'description' => t('My form'),
+  		'type' => MENU_CALLBACK,
+  );
+  
+  $items['getClientById/%'] = array(
+  		'title' => t('A Simple Form With API Form Drupal 7:GetElementByID'),
+  		'page callback' => 'getElementById',
+  		'page arguments' => array(1),
+  		'access arguments' => array('access content'),
+  		'description' => t('My form'),
+  		'type' => MENU_CALLBACK,
+  );
+  
+  $items['drupal/getJobCompany'] = array(
+  		'title' => t('Welcome to the Hello World Module'),
+  		'page callback' => 'drupal_page_job',
+  		'page arguments' => array(1,2),
+  		'access arguments' => array('access content'),
+  		'type' => MENU_CALLBACK,
+  );
+  
+
+    $items['drupal/%/%'] = array(
+        'title' => t('Welcome to the Hello World Module'),
+        'page callback' => 'drupal_page',
+        'page arguments' => array(1,2),
+        'access arguments' => array('access content'),
+        'type' => MENU_CALLBACK,
+    );
+
+    $items['drupal/angular'] = array(
+    		'title' => t('A Simple Form With API Form Drupal 7'),
+    		'page callback' => 'all_cars_page',
+    		'access arguments' => array('access content'),
+    		'description' => t('My form'),
+    		'type' => MENU_CALLBACK,
+    );
+    
+  
+  return $items;
+}
+
+function angular_render(){
+	print 'hello nadir ' ; 
+}
+
+function acme_all(){
+	$client = new Client(
+			'Mohamed Bia Sgira' ,
+			'89600' ,
+			'34 RUE DU VERCORS 38000 GRENOBLE- FRANCE .'
+	) ;
+	
+	EntityManagerClient::addClient($client) ;
+	EntityManagerClient::getAllClientResult() ; 
+}
+
+function drupal_page_job(){
+	EntityManagerClient::getJobCompany() ; 
+}
+
+function drupal_page($arg1, $arg2) {
+	return EntityManagerClient::getClientById($arg1) ; 
+}
+
+function getElementById($id){
+	 EntityManagerClient::getClientById($id) ; 
+}
+
+function acme_form() {
+  return drupal_get_form('acme_my_form');
+}
+function acme_my_form($form_state) {
+	
+  $form = array() ; 
+  
+  $form['PersonneIdentity'] = array(
+    '#type' => 'fieldset',
+    '#title' => t('PERSONE IDENTITY WITH DRUPAL FORM API'),
+    '#collapsible' => TRUE,
+    '#collapsed' => FALSE,
+  );
+  $form['PersonneIdentity']['name'] = array(
+    '#type' => 'textfield',
+    '#title' => t('First name'),
+    '#required' => TRUE,
+    '#description' => "Please enter your first name.",
+    '#size' => 20,
+    '#maxlength' => 20,
+  );
+  $form['PersonneIdentity']['salary'] = array(
+    '#type' => 'textfield',
+    '#title' => t('Your Salary'),
+  	'#description' => "Please enter your salary mount",
+    '#required' => TRUE,
+  );
+
+  $form['submit'] = array(
+    '#type' => 'submit',
+    '#value' => 'INSERT DATA IN DATA BASE',
+  );
+  
+  return $form;
+  
+}
+function acme_my_form_validate($form, &$form_state) {
+    
+    $client = new Client(
+    				$form_state['values']['name'] , 
+    				$form_state['values']['salary'] , 
+    				'34 RUE DU VERCORS 38000 GRENOBLE- FRANCE .'
+    		) ; 
+    
+    if ( $client->getSalary() < 2000 ) {
+        form_set_error('salary', 'Votre salaire est < 2000 ');       
+    }
+}
+
+function acme_my_form_submit($form, &$form_state) {
+	
+	$client = new Client(
+			$form_state['values']['name'] ,
+			$form_state['values']['salary'] , 
+			'34 RUE DU VERCORS 38000 GRENOBLE- FRANCE .'
+	) ;
+	
+	EntityManagerClient::addClient($client) ; 
+	
+    drupal_set_message(t('data has been inserted in db.'));
+}
+
+function acme_theme(){
+
+	$template  = 'all_cars' ;
+	
+	$client = new Client(
+			'Mohamed Bia Sgira' ,
+			'89600' ,
+			'34 RUE DU VERCORS 38000 GRENOBLE- FRANCE .'
+	) ;
+	
+	EntityManagerClient::addClient($client) ;
+	
+	return array(
+
+			all_cars => array(
+					'template' => $template ,
+			),
+	) ;
+}
+
+function all_cars_page(){
+
+	return theme('all_cars') ;
+}
+
+
+?>

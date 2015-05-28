@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projet/!svn/ver/307/drupal-8-dev/devel/tests/devel_test/src/Entity
+END
+DevelEntityTestEdit.php
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projet/!svn/ver/307/drupal-8-dev/devel/tests/devel_test/src/Entity/DevelEntityTestEdit.php
+END
+DevelEntityTestCanonical.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/projet/!svn/ver/307/drupal-8-dev/devel/tests/devel_test/src/Entity/DevelEntityTestCanonical.php
+END
+DevelEntityTestNoLinks.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projet/!svn/ver/307/drupal-8-dev/devel/tests/devel_test/src/Entity/DevelEntityTestNoLinks.php
+END

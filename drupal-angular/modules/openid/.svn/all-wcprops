@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projet/!svn/ver/305/drupal-angular/modules/openid
+END
+openid.js
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/305/drupal-angular/modules/openid/openid.js
+END
+openid.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/305/drupal-angular/modules/openid/openid.api.php
+END
+openid.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/305/drupal-angular/modules/openid/openid.test
+END
+login-bg.png
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/305/drupal-angular/modules/openid/login-bg.png
+END
+openid.module
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/305/drupal-angular/modules/openid/openid.module
+END
+openid.install
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/305/drupal-angular/modules/openid/openid.install
+END
+openid-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/305/drupal-angular/modules/openid/openid-rtl.css
+END
+openid.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projet/!svn/ver/305/drupal-angular/modules/openid/openid.pages.inc
+END
+openid.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projet/!svn/ver/305/drupal-angular/modules/openid/openid.css
+END
+openid.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projet/!svn/ver/305/drupal-angular/modules/openid/openid.inc
+END
+openid.info
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/305/drupal-angular/modules/openid/openid.info
+END

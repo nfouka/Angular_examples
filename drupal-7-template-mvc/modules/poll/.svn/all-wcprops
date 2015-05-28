@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/poll
+END
+poll-results.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/poll/poll-results.tpl.php
+END
+poll.module
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/poll/poll.module
+END
+poll.install
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/poll/poll.install
+END
+poll-bar.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/poll/poll-bar.tpl.php
+END
+poll-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/poll/poll-rtl.css
+END
+poll.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/poll/poll.pages.inc
+END
+poll.css
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/poll/poll.css
+END
+poll-results--block.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/poll/poll-results--block.tpl.php
+END
+poll.info
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/poll/poll.info
+END
+poll.tokens.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/poll/poll.tokens.inc
+END
+poll-bar--block.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/poll/poll-bar--block.tpl.php
+END
+poll.test
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/poll/poll.test
+END
+poll-vote.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/poll/poll-vote.tpl.php
+END

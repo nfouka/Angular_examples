@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/310/d8-dev-bmi/custom/first/templates
+END
+hello.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projet/!svn/ver/310/d8-dev-bmi/custom/first/templates/hello.html.twig
+END
+hello.html_1.twig
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projet/!svn/ver/310/d8-dev-bmi/custom/first/templates/hello.html_1.twig
+END
+acme.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/310/d8-dev-bmi/custom/first/templates/acme.html.twig
+END
+note.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/310/d8-dev-bmi/custom/first/templates/note.html.twig
+END
+base.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/310/d8-dev-bmi/custom/first/templates/base.html.twig
+END
+somme.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projet/!svn/ver/310/d8-dev-bmi/custom/first/templates/somme.html.twig
+END
+calc.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/310/d8-dev-bmi/custom/first/templates/calc.html.twig
+END

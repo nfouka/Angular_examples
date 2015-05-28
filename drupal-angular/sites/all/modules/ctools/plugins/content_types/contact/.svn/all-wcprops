@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/ctools/plugins/content_types/contact
+END
+user_contact.inc
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/ctools/plugins/content_types/contact/user_contact.inc
+END
+contact.inc
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/ctools/plugins/content_types/contact/contact.inc
+END
+icon_contact.png
+K 25
+svn:wc:ra_dav:version-url
+V 107
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/ctools/plugins/content_types/contact/icon_contact.png
+END

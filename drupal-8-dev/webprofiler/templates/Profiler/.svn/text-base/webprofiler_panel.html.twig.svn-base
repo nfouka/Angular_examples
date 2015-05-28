@@ -1,0 +1,6 @@
+{{ template.renderblock('panel', {
+'token': profile.token,
+'name': name,
+'content': content
+}) }}
+<div class="summary" style="display:none">{{ summary }}</div>

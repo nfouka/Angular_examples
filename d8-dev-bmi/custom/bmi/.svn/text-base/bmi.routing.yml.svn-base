@@ -1,0 +1,24 @@
+bmi.default_controller_hello:
+  path: '/bmi/index/{name}'
+  defaults:
+    _controller: '\Drupal\bmi\Controller\DefaultController::hello'
+    _title: 'bmi Title'
+  requirements:
+    _permission: 'access content'
+
+bmi.default_b_m_i_settings_form:
+  path: '/bmi/settings/DefaultBMISettingsForm'
+  defaults:
+    _form: '\Drupal\bmi\Form\DefaultBMISettingsForm'
+    _title: 'DefaultBMISettingsForm'
+  requirements:
+    _permission: 'access content'
+
+
+bmi.settings_form_bmi:
+  path: '/admin/settings/SettingsFormBmi'
+  defaults:
+    _form: '\Drupal\bmi\Form\SettingsFormBmi'
+    _title: 'SettingsFormBmi'
+  requirements:
+    _permission: 'access administration pages'

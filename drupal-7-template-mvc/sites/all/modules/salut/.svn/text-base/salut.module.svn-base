@@ -1,0 +1,92 @@
+<?php
+
+/**
+ * Implements hook_block_info().
+ */
+function salut_block_info() {
+	$blocks = array();
+
+	$block['salut-block'] = array(
+		'info' => 'Salut nadir ' , 
+	);
+
+	$blocks['salut_block_delta'] = array(
+		'info' => t('A simple drupal module for example'),
+		'cache' => DRUPAL_NO_CACHE,
+	);
+
+	return $blocks;
+}
+
+/**
+ * Implements hook_block_view().
+ */
+function salut_block_view($delta = '') {
+	if (function_exists($delta . '_view')) {
+		return call_user_func($delta . '_view');
+	}
+
+}
+
+/**
+ * Implements hook_block_configure().
+ */
+function salut_block_configure($delta = '') {
+	if (function_exists($delta . '_configure')) {
+		return call_user_func($delta . '_configure');
+	}
+}
+
+/**
+ * Implements hook_block_save().
+ */
+function salut_block_save($delta = '', $edit = array()) {
+	if (function_exists($delta . '_save')) {
+		return call_user_func($delta . '_save', $edit);
+	}
+}
+
+/**
+ * Block code to view salut_block_delta
+ */
+function salut_block_delta_view() {
+	$block = array('subject' => 'A Simple Test', 
+		'content' => '
+			 Femelle Mate1
+Soumis par nfouka le sam, 02/14/2015 - 14:29
+
+Le Faisan de Colchide, faisan à collier ou faisan de chasse (Phasianus colchicus), est une espèce doiseau galliforme de la famille des Phasianidae introduit en Europe dès le 
+
+		'
+
+		);
+	return $block;
+}
+
+/**
+ * Block code to configure salut_block_delta
+ */
+function salut_block_delta_configure() {
+	$form = array();
+	return $form;
+}
+
+/**
+ * Block code to save salut_block_delta
+ */
+function salut_block_delta_save($edit = array()) {
+}
+
+
+/**
+* Implementation of hook_help()
+*/
+function salut_help($path, $arg) {
+switch ($path) {
+case 'admin/help#salut':
+return '<p>' . t('Sample module from Atelier Drupal book. This module
+just provide a hello world block.') . '</p>';
+}
+}
+
+?>

@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector
+END
+ConfigDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/ConfigDataCollector.php
+END
+ExtensionDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/ExtensionDataCollector.php
+END
+PhpConfigDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/PhpConfigDataCollector.php
+END
+UserDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/UserDataCollector.php
+END
+HttpDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/HttpDataCollector.php
+END
+FrontendDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/FrontendDataCollector.php
+END
+AssetDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/AssetDataCollector.php
+END
+StateDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/StateDataCollector.php
+END
+EventDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/EventDataCollector.php
+END
+DrupalDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/DrupalDataCollector.php
+END
+RoutingDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/RoutingDataCollector.php
+END
+RequestDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/RequestDataCollector.php
+END
+BlockDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/BlockDataCollector.php
+END
+DrupalDataCollectorTrait.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/DrupalDataCollectorTrait.php
+END
+ViewsDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/ViewsDataCollector.php
+END
+TimeDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/TimeDataCollector.php
+END
+ServiceDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/ServiceDataCollector.php
+END
+FormDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/FormDataCollector.php
+END
+CacheDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/CacheDataCollector.php
+END
+DatabaseDataCollector.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/DataCollector/DatabaseDataCollector.php
+END

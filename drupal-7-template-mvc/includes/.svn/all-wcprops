@@ -1,0 +1,275 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/projet/!svn/ver/306/drupal-7-template-mvc/includes
+END
+common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/common.inc
+END
+iso.inc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/iso.inc
+END
+file.mimetypes.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/file.mimetypes.inc
+END
+path.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/path.inc
+END
+actions.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/actions.inc
+END
+password.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/password.inc
+END
+theme.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/theme.inc
+END
+form.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/form.inc
+END
+updater.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/updater.inc
+END
+json-encode.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/json-encode.inc
+END
+install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/install.inc
+END
+registry.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/registry.inc
+END
+unicode.entities.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/unicode.entities.inc
+END
+authorize.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/authorize.inc
+END
+entity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/entity.inc
+END
+errors.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/errors.inc
+END
+batch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/batch.inc
+END
+image.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/image.inc
+END
+language.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/language.inc
+END
+unicode.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/unicode.inc
+END
+lock.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/lock.inc
+END
+xmlrpcs.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/xmlrpcs.inc
+END
+install.core.inc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/install.core.inc
+END
+pager.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/pager.inc
+END
+tablesort.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/tablesort.inc
+END
+locale.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/locale.inc
+END
+graph.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/graph.inc
+END
+utility.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/utility.inc
+END
+cache.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/cache.inc
+END
+archiver.inc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/archiver.inc
+END
+batch.queue.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/batch.queue.inc
+END
+menu.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/menu.inc
+END
+xmlrpc.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/xmlrpc.inc
+END
+cache-install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/cache-install.inc
+END
+bootstrap.inc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/bootstrap.inc
+END
+date.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/date.inc
+END
+stream_wrappers.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/stream_wrappers.inc
+END
+file.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/file.inc
+END
+token.inc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/token.inc
+END
+mail.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/mail.inc
+END
+update.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/update.inc
+END
+theme.maintenance.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/theme.maintenance.inc
+END
+session.inc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/session.inc
+END
+ajax.inc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/ajax.inc
+END
+module.inc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/306/drupal-7-template-mvc/includes/module.inc
+END

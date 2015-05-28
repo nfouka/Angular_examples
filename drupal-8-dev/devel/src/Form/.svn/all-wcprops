@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/projet/!svn/ver/307/drupal-8-dev/devel/src/Form
+END
+ExecutePHP.php
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/307/drupal-8-dev/devel/src/Form/ExecutePHP.php
+END
+SystemStateEdit.php
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projet/!svn/ver/307/drupal-8-dev/devel/src/Form/SystemStateEdit.php
+END
+ConfigEditor.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/307/drupal-8-dev/devel/src/Form/ConfigEditor.php
+END
+DevelReinstall.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projet/!svn/ver/307/drupal-8-dev/devel/src/Form/DevelReinstall.php
+END
+DevelRebuildMenus.php
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projet/!svn/ver/307/drupal-8-dev/devel/src/Form/DevelRebuildMenus.php
+END
+ConfigsList.php
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/307/drupal-8-dev/devel/src/Form/ConfigsList.php
+END
+SettingsForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/307/drupal-8-dev/devel/src/Form/SettingsForm.php
+END
+SwitchUserForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projet/!svn/ver/307/drupal-8-dev/devel/src/Form/SwitchUserForm.php
+END

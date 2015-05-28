@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather
+END
+weather.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/weather.tpl.php
+END
+weather.module
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/weather.module
+END
+weather_parser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/weather_parser.inc
+END
+INSTALL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/INSTALL.txt
+END
+weather_theme.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/weather_theme.inc
+END
+weather.info
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/weather.info
+END
+weather.forms.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/weather.forms.inc
+END
+weather.common.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/weather.common.inc
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/LICENSE.txt
+END
+weather.views.inc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/weather.views.inc
+END
+weather_detailed_forecast.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/weather_detailed_forecast.tpl.php
+END
+weather.install
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/weather.install
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/CHANGELOG.txt
+END
+weather_data.txt
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/weather_data.txt
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/weather/README.txt
+END

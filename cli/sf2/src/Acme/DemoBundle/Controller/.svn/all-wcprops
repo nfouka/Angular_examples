@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projet/!svn/ver/359/cli/sf2/src/Acme/DemoBundle/Controller
+END
+SecuredController.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/359/cli/sf2/src/Acme/DemoBundle/Controller/SecuredController.php
+END
+WelcomeController.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/359/cli/sf2/src/Acme/DemoBundle/Controller/WelcomeController.php
+END
+DemoController.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/359/cli/sf2/src/Acme/DemoBundle/Controller/DemoController.php
+END

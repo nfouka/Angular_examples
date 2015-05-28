@@ -1,0 +1,17 @@
+{
+  "name": "cars",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "nadir.fouka@dciss.org",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5"
+  },
+  "dependencies": {
+    "grun": "^0.2.0",
+    "grunt": "^0.4.5"
+  }
+}

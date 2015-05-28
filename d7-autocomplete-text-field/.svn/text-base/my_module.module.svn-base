@@ -1,0 +1,233 @@
+<?php
+
+
+function my_module_menu() {
+
+  $items = array();
+  $items['my_module/form'] = array(
+    'title' => t('A Form Builder With Drupal 7 API Form'),
+    'page callback' => 'my_module_form',
+    'access arguments' => array('access content'),
+    'description' => t('My form'),
+    'type' => MENU_CALLBACK,
+  );
+
+
+   $items['my_module/index'] = array(
+    'title' => t('A Form Builder With Drupal 7 API Form'),
+    'page callback' => 'my_module_index',
+    'access arguments' => array('access content'),
+    'description' => t('My form'),
+    'type' => MENU_CALLBACK,
+  );
+
+$items['demo-autocomplete-test'] = array(
+    'title' => 'Test autocomplete',
+    'page callback' => 'drupal_get_form',
+    'page arguments' => array('demo_form'),
+    'access arguments' => array('access content'),
+    'type' => MENU_NORMAL_ITEM,
+  ); 
+
+  $items['demo-autocomplete-engine'] = array(
+    'page callback' => 'demo_autocomplete',
+    'access arguments' => array('access content'),
+    'type' => MENU_CALLBACK,
+  );
+
+  $items['demo-autocomplete-engine2'] = array(
+    'page callback' => 'demo_autocomplete2',
+    'access arguments' => array('access content'),
+    'type' => MENU_CALLBACK,
+  );
+
+
+  return $items;
+}
+
+function my_module_index(){
+	return '
+
+
+Drupal
+Search form
+Search
+Show Refine your search
+    Drupal Homepage
+    Log in / Register
+Download & Extend
+    Download & Extend Home
+    Drupal Core
+    Distributions
+    Modules
+    Themes
+Single Page Website
+Primary tabs
+    View(active tab)
+    Version control
+Posted by Yaremchuk on April 19, 2011 at 9:43am
+Do you want to organize front page of your site as a single page website with navigation by anchors?
+Summary
+This module provide the ability to display the content of all menu items of the main-menu on the Single Page Website module.
+On the page single_page the links in the menu will be replaced to the links to the correspondent anchors.
+You can set URL single_page  as front page of your site, and your visitors will see the Single Page Website. But it will be the site managed by Drupal 7.
+This approach is good for the small personal websites and promotional pages.
+Also you can see short video tutorial how to setup singe page site http://www.youtube.com/watch?v=UvIuBIpfbbU
+The module good works with Bartik 7.0 theme.
+	' ; 
+}
+
+function  my_module_form() {
+  return drupal_get_form('my_module_my_form');
+}
+function  my_module_my_form($form_state) {
+  $form['name'] = array(
+    '#type' => 'fieldset',
+    '#title' => t('Name'),
+    '#collapsible' => TRUE,
+    '#collapsed' => FALSE,
+  );
+  $form['name']['first'] = array(
+    '#type' => 'textfield',
+    '#title' => t('First name'),
+    '#required' => TRUE,
+    '#default_value' => "First name",
+    '#description' => "Please enter your first name.",
+    '#size' => 20,
+    '#maxlength' => 20,
+  );
+  $form['name']['last'] = array(
+    '#type' => 'textfield',
+    '#title' => t('Last name'),
+    '#required' => TRUE,
+  );
+  $form['year_of_birth'] = array(
+    '#type' => 'textfield',
+    '#title' => "Year of birth",
+    '#description' => 'Format is "YYYY"',
+  );  
+  $form['submit'] = array(
+    '#type' => 'submit',
+    '#value' => 'Submit',
+  );
+  return $form;
+}
+function  my_module_my_form_validate($form, &$form_state) {
+    $year_of_birth = $form_state['values']['year_of_birth'];
+    if ($year_of_birth && ($year_of_birth < 1900 || $year_of_birth > 2000)) {
+        form_set_error('year_of_birth', 'Enter a year between 1900 and 2000.');
+    }
+}
+// Adds a submit handler/function to our form to send a successful 
+// completion message to the screen.
+function my_module_my_form_submit($form, &$form_state) {
+    drupal_set_message(t('The form has been submitted.'));
+}
+
+function demo_form($form, &$form_state) {
+
+  $form = array();
+
+  $form['colors'] = array(
+    '#title' => t('Departement in France '),
+    '#type' => 'textfield',
+    '#maxlength' => 60,
+    '#autocomplete_path' => 'demo-autocomplete-engine',
+  );
+
+    $form['pays'] = array(
+    '#title' => t('Pays '),
+    '#type' => 'textfield',
+    '#maxlength' => 60,
+    '#autocomplete_path' => 'demo-autocomplete-engine2',
+  );
+
+  $form['submit'] = array(
+    '#type' => 'submit',
+    '#value' => 'Submit',
+  );
+
+  $form['some_text'] = array(
+  '#markup' => '<p style="color:green;">
+
+  Drupal
+Search form
+Search
+Show Refine your search
+    Drupal Homepage
+    Log in / Register
+Download & Extend
+    Download & Extend Home
+    Drupal Core
+    Distributions
+    Modules
+    Themes
+Single Page Website
+Primary tabs
+    View(active tab)
+    Version control
+Posted by Yaremchuk on April 19, 2011 at 9:43am
+Do you want to organize front page of your site as a single page website with navigation by anchors?
+Summary
+This module provide the ability to display the content of all menu items of the main-menu on the Single Page Website module.
+On the page single_page the links in the menu will be replaced to the links to the correspondent anchors.
+You can set URL single_page  as front page of your site, and your visitors will see the Single Page Website. But it will be the site managed by Drupal 7.
+This approach is good for the small personal websites and promotional pages.
+Also you can see short video tutorial how to setup singe page site http://www.youtube.com/watch?v=UvIuBIpfbbU
+The module good works with Bartik 7.0 theme.
+
+<fieldset style="padding:8px; background-color:#E4D6F7">
+I want to have a different menu appear in place of the secondary menu if the user is logged out (so I can provide extra login links to intranet sites, and a link to the Contact form in place of the default logged out Secondary menu which just contains "Sign In / Register").
+
+So, Ive created another menu with the links I want and named it: secondary-menu-logged-out.
+
+Here is the code from my page.tpl.php that displays this custom menu when a user is logged out, in the same style and with the same (hidden) title as the secondary menu. I m using a Zen subtheme.
+</fieldset>
+
+  </p>'
+  );
+
+
+  return $form ;
+}
+
+function demo_autocomplete($text) {
+  $results = array();
+
+  $query = db_select('departement', 'c');
+  $query
+      ->condition('c.departement_nom', '%' . db_like($text) . '%', 'LIKE')
+      ->fields('c', array('departement_nom'))
+      ->orderBy('departement_nom', 'ASC');
+  $dept = $query->execute();
+
+  foreach ($dept as $row) {
+    $results[$row->departement_nom] = check_plain($row->departement_nom);
+  }
+
+  drupal_json_output($results);
+}
+
+function demo_my_form_submit($form, &$form_state) {
+    drupal_set_message(t('The form has been submitted.'));
+}
+
+
+function demo_autocomplete2($text) {
+  $results = array();
+
+  $query = db_select('pays', 'c');
+  $query
+      ->condition('c.nom_fr_fr', '%' . db_like($text) . '%', 'LIKE')
+      ->fields('c', array('nom_fr_fr'))
+      ->orderBy('nom_fr_fr', 'ASC');
+  $dept = $query->execute();
+
+  foreach ($dept as $row) {
+    $results[$row->nom_fr_fr] = check_plain($row->nom_fr_fr);
+  }
+
+  drupal_json_output($results);
+}
+
+?>

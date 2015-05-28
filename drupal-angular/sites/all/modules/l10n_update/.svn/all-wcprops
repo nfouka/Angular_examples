@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/l10n_update
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/l10n_update/README.txt
+END
+l10n_update.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/l10n_update/l10n_update.admin.inc
+END
+l10n_update.parser.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/l10n_update/l10n_update.parser.inc
+END
+l10n_update.check.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/l10n_update/l10n_update.check.inc
+END
+l10n_update.module
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/l10n_update/l10n_update.module
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/l10n_update/LICENSE.txt
+END
+l10n_update.install
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/l10n_update/l10n_update.install
+END
+l10n_update.locale.inc
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/l10n_update/l10n_update.locale.inc
+END
+l10n_update.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/l10n_update/l10n_update.inc
+END
+l10n_update.batch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/l10n_update/l10n_update.batch.inc
+END
+l10n_update.info
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/l10n_update/l10n_update.info
+END
+l10n_update.drush.inc
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/l10n_update/l10n_update.drush.inc
+END
+l10n_update.project.inc
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/l10n_update/l10n_update.project.inc
+END
+l10n_update.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/l10n_update/l10n_update.api.php
+END

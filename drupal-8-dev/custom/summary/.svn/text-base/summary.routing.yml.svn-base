@@ -1,0 +1,8 @@
+summary.default_controller_hello:
+  path: 'summary/hello/{name}'
+  defaults:
+    _controller: '\Drupal\summary\Controller\DefaultController::hello'
+    _title: 'Summary Title with Drupal 8 MVC'
+  requirements:
+    _permission: 'access content'
+

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate
+END
+devel_generate.drush.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/devel_generate.drush.inc
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/README.txt
+END
+devel_generate.services.yml
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/devel_generate.services.yml
+END
+devel_generate.module
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/devel_generate.module
+END
+devel_generate.routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/devel_generate.routing.yml
+END
+devel_generate.batch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/devel_generate.batch.inc
+END
+devel_generate.info.yml
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/devel_generate.info.yml
+END
+devel_generate.permissions.yml
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/307/drupal-8-dev/devel/devel_generate/devel_generate.permissions.yml
+END

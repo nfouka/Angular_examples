@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/projet/!svn/ver/307/drupal-8-dev/custom/acme
+END
+acme.info.yml
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projet/!svn/ver/307/drupal-8-dev/custom/acme/acme.info.yml
+END
+acme.module
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projet/!svn/ver/307/drupal-8-dev/custom/acme/acme.module
+END
+acme.routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/307/drupal-8-dev/custom/acme/acme.routing.yml
+END

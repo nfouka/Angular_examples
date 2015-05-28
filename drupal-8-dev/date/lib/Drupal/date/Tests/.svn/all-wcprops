@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/307/drupal-8-dev/date/lib/Drupal/date/Tests
+END
+DateUITest.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projet/!svn/ver/307/drupal-8-dev/date/lib/Drupal/date/Tests/DateUITest.php
+END
+DateFieldBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/307/drupal-8-dev/date/lib/Drupal/date/Tests/DateFieldBase.php
+END
+DateFieldTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/307/drupal-8-dev/date/lib/Drupal/date/Tests/DateFieldTest.php
+END
+DateTimezoneTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/307/drupal-8-dev/date/lib/Drupal/date/Tests/DateTimezoneTest.php
+END
+DateValidationTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/307/drupal-8-dev/date/lib/Drupal/date/Tests/DateValidationTest.php
+END

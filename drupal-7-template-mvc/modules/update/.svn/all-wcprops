@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/update
+END
+update.module
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/update/update.module
+END
+update.install
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/update/update.install
+END
+update-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/update/update-rtl.css
+END
+update.css
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/update/update.css
+END
+update.settings.inc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/update/update.settings.inc
+END
+update.info
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/update/update.info
+END
+update.compare.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/update/update.compare.inc
+END
+update.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/update/update.api.php
+END
+update.test
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/update/update.test
+END
+update.fetch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/update/update.fetch.inc
+END
+update.authorize.inc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/update/update.authorize.inc
+END
+update.manager.inc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/update/update.manager.inc
+END
+update.report.inc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/update/update.report.inc
+END

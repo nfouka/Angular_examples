@@ -1,0 +1,39 @@
+<?php
+
+use Drupal\mortgage_calculator\MortgageCalculatorCalculation;
+
+/**
+* Implementation of hook_menu()
+*/
+function mortgage_calculator_menu() {
+
+  $items['mortgage-calculator'] = array(
+    'title' => 'Mortgage calculator',
+    'route_name' => 'mortgage_calculator',
+  );
+
+  return $items;
+}
+
+/**
+* Implementation of hook_theme()
+*/
+function mortgage_calculator_theme($existing, $type, $theme, $path) {
+  return array(
+    'mortgage_calculator' => array(
+    'variables' => array('loan_amount' => NULL, 'mortgage_rate' => NULL, 'years_to_pay' => NULL, 'desired_display' => NULL),
+      'template' => 'mortgage-calculator',
+    ),
+  );
+}
+
+/**
+ * Preprocess function
+ */
+function template_preprocess_mortgage_calculator(&$variables) {
+
+  $mortgage_calculator = new MortgageCalculatorCalculation($variables['loan_amount'], $variables['mortgage_rate'], $variables['years_to_pay'], $variables['desired_display']);
+  $variables += $mortgage_calculator->calculate();
+
+}
+

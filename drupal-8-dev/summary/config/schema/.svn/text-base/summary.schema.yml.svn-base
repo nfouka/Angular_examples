@@ -1,0 +1,10 @@
+summary.settings:
+  type: mapping
+  label: Settings
+  mapping:
+    summary_module_label:
+      type: string
+    summary_taxonomy_label:
+      type: string
+    summary_content_types:
+      type: string

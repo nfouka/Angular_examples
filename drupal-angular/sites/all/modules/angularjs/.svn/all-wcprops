@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/angularjs
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/angularjs/LICENSE.txt
+END
+angularjs.info
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/angularjs/angularjs.info
+END
+angularjs.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/angularjs/angularjs.admin.inc
+END
+angularjs.api.inc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/angularjs/angularjs.api.inc
+END
+angularjs.module
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/angularjs/angularjs.module
+END
+angularjs.install
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/305/drupal-angular/sites/all/modules/angularjs/angularjs.install
+END

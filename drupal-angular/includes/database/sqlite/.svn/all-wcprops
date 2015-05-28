@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/projet/!svn/ver/305/drupal-angular/includes/database/sqlite
+END
+select.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projet/!svn/ver/305/drupal-angular/includes/database/sqlite/select.inc
+END
+schema.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projet/!svn/ver/305/drupal-angular/includes/database/sqlite/schema.inc
+END
+database.inc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/projet/!svn/ver/305/drupal-angular/includes/database/sqlite/database.inc
+END
+query.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projet/!svn/ver/305/drupal-angular/includes/database/sqlite/query.inc
+END
+install.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projet/!svn/ver/305/drupal-angular/includes/database/sqlite/install.inc
+END

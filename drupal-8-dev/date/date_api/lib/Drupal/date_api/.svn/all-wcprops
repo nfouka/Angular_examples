@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projet/!svn/ver/307/drupal-8-dev/date/date_api/lib/Drupal/date_api
+END
+DateGranularity.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projet/!svn/ver/307/drupal-8-dev/date/date_api/lib/Drupal/date_api/DateGranularity.php
+END
+DateiCalParse.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/307/drupal-8-dev/date/date_api/lib/Drupal/date_api/DateiCalParse.php
+END
+DateSqlHandler.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/307/drupal-8-dev/date/date_api/lib/Drupal/date_api/DateSqlHandler.php
+END

@@ -1,0 +1,33 @@
+mymodule.default_controller_hello:
+  path: 'mymodule/hello/{name}'
+  defaults:
+    _controller: '\Drupal\mymodule\Controller\DefaultController::hello'
+    _title: 'mymodule Title'
+  requirements:
+    _permission: 'access content'
+
+mymodule.default_controller_somme:
+  path: 'mymodule/somme/{n}'
+  defaults:
+    _controller: '\Drupal\mymodule\Controller\DefaultController::somme'
+    _title: '<h1 style="color:#055A8E">Collection in Drupal 8/Symfony 2 LTS</h1>'
+  requirements:
+    _permission: 'access content'
+    
+    
+mymodule.default_form:
+  path: '/mymodule/settings/DefaultForm'
+  defaults:
+    _form: '\Drupal\mymodule\Form\DefaultForm'
+    _title: 'Formulaire d état civile'
+  requirements:
+    _permission: 'access content'
+
+mymodule.contact_settings:
+  path: '/mymodule/settings/ContactSettings'
+  defaults:
+    _form: '\Drupal\mymodule\Form\ContactSettings'
+    _title: 'ContactSettings'
+  requirements:
+    _permission: 'access administration pages'
+

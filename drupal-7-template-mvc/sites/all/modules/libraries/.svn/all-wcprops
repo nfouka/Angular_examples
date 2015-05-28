@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/libraries
+END
+libraries.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/libraries/libraries.api.php
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/libraries/README.txt
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/libraries/LICENSE.txt
+END
+libraries.module
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/libraries/libraries.module
+END
+libraries.install
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/libraries/libraries.install
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/libraries/CHANGELOG.txt
+END
+libraries.info
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/libraries/libraries.info
+END
+libraries.drush.inc
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/libraries/libraries.drush.inc
+END

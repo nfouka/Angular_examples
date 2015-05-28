@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projet/!svn/ver/305/drupal-angular/modules/taxonomy
+END
+taxonomy.module
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projet/!svn/ver/305/drupal-angular/modules/taxonomy/taxonomy.module
+END
+taxonomy.install
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/305/drupal-angular/modules/taxonomy/taxonomy.install
+END
+taxonomy.pages.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projet/!svn/ver/305/drupal-angular/modules/taxonomy/taxonomy.pages.inc
+END
+taxonomy.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/305/drupal-angular/modules/taxonomy/taxonomy.css
+END
+taxonomy-term.tpl.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/projet/!svn/ver/305/drupal-angular/modules/taxonomy/taxonomy-term.tpl.php
+END
+taxonomy.info
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projet/!svn/ver/305/drupal-angular/modules/taxonomy/taxonomy.info
+END
+taxonomy.tokens.inc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projet/!svn/ver/305/drupal-angular/modules/taxonomy/taxonomy.tokens.inc
+END
+taxonomy.js
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/305/drupal-angular/modules/taxonomy/taxonomy.js
+END
+taxonomy.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/305/drupal-angular/modules/taxonomy/taxonomy.api.php
+END
+taxonomy.test
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projet/!svn/ver/305/drupal-angular/modules/taxonomy/taxonomy.test
+END
+taxonomy.admin.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projet/!svn/ver/305/drupal-angular/modules/taxonomy/taxonomy.admin.inc
+END

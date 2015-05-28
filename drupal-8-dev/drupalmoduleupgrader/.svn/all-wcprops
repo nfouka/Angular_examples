@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader
+END
+phpunit.xml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/phpunit.xml.dist
+END
+drupalmoduleupgrader.services.yml
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/drupalmoduleupgrader.services.yml
+END
+.gitmodules
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/.gitmodules
+END
+drupalmoduleupgrader.module
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/drupalmoduleupgrader.module
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/README.txt
+END
+composer.lock
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/composer.lock
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/composer.json
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/LICENSE.txt
+END
+drupalmoduleupgrader.info.yml
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/drupalmoduleupgrader.info.yml
+END
+DEMO.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/DEMO.txt
+END
+drupalmoduleupgrader.drush.inc
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/drupalmoduleupgrader.drush.inc
+END
+TODO.md
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/TODO.md
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/.gitignore
+END

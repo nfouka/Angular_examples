@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/src/Plugin/DMU/Cleaner
+END
+InfoFile.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/src/Plugin/DMU/Cleaner/InfoFile.php
+END
+Tests.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/src/Plugin/DMU/Cleaner/Tests.php
+END
+DeleteHook.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/src/Plugin/DMU/Cleaner/DeleteHook.php
+END
+DeleteHookDeriver.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/projet/!svn/ver/307/drupal-8-dev/drupalmoduleupgrader/src/Plugin/DMU/Cleaner/DeleteHookDeriver.php
+END

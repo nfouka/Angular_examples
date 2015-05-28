@@ -1,0 +1,11 @@
+name: OOP Examples
+type: module
+description: 'A variety of OOP example code.'
+package: OOP Example modules
+# core: 8.x
+
+# Information added by Drupal.org packaging script on 2014-11-07
+version: '8.x-1.0'
+core: '8.x'
+project: 'oop_examples'
+datestamp: 1415384603

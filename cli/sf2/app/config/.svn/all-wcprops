@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/projet/!svn/ver/359/cli/sf2/app/config
+END
+routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/projet/!svn/ver/359/cli/sf2/app/config/routing.yml
+END
+security.yml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projet/!svn/ver/359/cli/sf2/app/config/security.yml
+END
+config_prod.yml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projet/!svn/ver/359/cli/sf2/app/config/config_prod.yml
+END
+config_dev.yml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/359/cli/sf2/app/config/config_dev.yml
+END
+parameters.yml
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/359/cli/sf2/app/config/parameters.yml
+END
+services.yml
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/projet/!svn/ver/359/cli/sf2/app/config/services.yml
+END
+config_test.yml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projet/!svn/ver/359/cli/sf2/app/config/config_test.yml
+END
+config.yml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projet/!svn/ver/359/cli/sf2/app/config/config.yml
+END
+parameters.yml.dist
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/projet/!svn/ver/359/cli/sf2/app/config/parameters.yml.dist
+END
+routing_dev.yml
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/projet/!svn/ver/359/cli/sf2/app/config/routing_dev.yml
+END

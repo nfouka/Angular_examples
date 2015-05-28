@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projet/!svn/ver/305/drupal-angular/modules/update
+END
+update.install
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/305/drupal-angular/modules/update/update.install
+END
+update-rtl.css
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/305/drupal-angular/modules/update/update-rtl.css
+END
+update.css
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/projet/!svn/ver/305/drupal-angular/modules/update/update.css
+END
+update.settings.inc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projet/!svn/ver/305/drupal-angular/modules/update/update.settings.inc
+END
+update.info
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/305/drupal-angular/modules/update/update.info
+END
+update.compare.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/305/drupal-angular/modules/update/update.compare.inc
+END
+update.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/projet/!svn/ver/305/drupal-angular/modules/update/update.api.php
+END
+update.test
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/projet/!svn/ver/305/drupal-angular/modules/update/update.test
+END
+update.fetch.inc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/projet/!svn/ver/305/drupal-angular/modules/update/update.fetch.inc
+END
+update.authorize.inc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projet/!svn/ver/305/drupal-angular/modules/update/update.authorize.inc
+END
+update.manager.inc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/305/drupal-angular/modules/update/update.manager.inc
+END
+update.report.inc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projet/!svn/ver/305/drupal-angular/modules/update/update.report.inc
+END
+update.module
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/305/drupal-angular/modules/update/update.module
+END

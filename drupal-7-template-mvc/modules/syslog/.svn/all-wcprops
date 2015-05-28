@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/syslog
+END
+syslog.info
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/syslog/syslog.info
+END
+syslog.test
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/syslog/syslog.test
+END
+syslog.module
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/syslog/syslog.module
+END
+syslog.install
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/projet/!svn/ver/306/drupal-7-template-mvc/modules/syslog/syslog.install
+END

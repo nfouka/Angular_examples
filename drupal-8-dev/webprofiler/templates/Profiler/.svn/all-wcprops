@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Profiler
+END
+webprofiler_panel.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Profiler/webprofiler_panel.html.twig
+END
+webprofiler_resume.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Profiler/webprofiler_resume.html.twig
+END
+webprofiler_toolbar.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Profiler/webprofiler_toolbar.html.twig
+END
+webprofiler_db_panel.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Profiler/webprofiler_db_panel.html.twig
+END
+webprofiler_loader.html.twig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Profiler/webprofiler_loader.html.twig
+END
+webprofiler_toolbar.css.twig
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/templates/Profiler/webprofiler_toolbar.css.twig
+END

@@ -1,0 +1,20 @@
+# Schema for the configuration files of the Webprofiler module.
+webprofiler.config:
+  type: mapping
+  label: 'Webprofiler configuration'
+  mapping:
+    purge_on_cache_clear:
+      type: boolean
+      label: 'Purge profiles on cache clear'
+    storage:
+      type: string
+      label: 'Storage implementation'
+    exclude:
+      type: string
+      label: 'Path to exclude'
+    active_toolbar_items:
+      type: sequence
+      label: 'Active toolbar items'
+      sequence:
+        - type: string
+          label: 'Toolbar item'

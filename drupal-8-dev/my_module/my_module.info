@@ -1,0 +1,7 @@
+; $Id:
+name = fouka
+description = Summary from Atelier Drupal.
+core = 7.x
+version = 7.x-0.x-dev
+package = Zaff Atelier Drupal
+files[] = my_module.module

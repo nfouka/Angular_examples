@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/projet/!svn/ver/307/drupal-8-dev/search_autocomplete/config/install
+END
+views.view.nodes_autocomplete_callback.yml
+K 25
+svn:wc:ra_dav:version-url
+V 111
+/projet/!svn/ver/307/drupal-8-dev/search_autocomplete/config/install/views.view.nodes_autocomplete_callback.yml
+END
+search_autocomplete.autocompletion_configuration.search_block.yml
+K 25
+svn:wc:ra_dav:version-url
+V 134
+/projet/!svn/ver/307/drupal-8-dev/search_autocomplete/config/install/search_autocomplete.autocompletion_configuration.search_block.yml
+END
+search_autocomplete.settings.yml
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/projet/!svn/ver/307/drupal-8-dev/search_autocomplete/config/install/search_autocomplete.settings.yml
+END

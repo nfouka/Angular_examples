@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 29
+/projet/!svn/ver/302/mymodule
+END
+mymodule.module
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/projet/!svn/ver/302/mymodule/mymodule.module
+END
+mymodule.routing.yml
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/projet/!svn/ver/302/mymodule/mymodule.routing.yml
+END
+mymodule.info.yml
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/projet/!svn/ver/302/mymodule/mymodule.info.yml
+END

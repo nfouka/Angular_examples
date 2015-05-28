@@ -1,0 +1,49 @@
+<?php
+
+/**
+ * @file
+ * Contains mymodule.module
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+
+function mymodule_help($route_name, RouteMatchInterface $route_match)
+{
+  switch ($route_name) {
+    // Main module help for the mymodule module.
+    case 'help.page.mymodule':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('My Awesome Module its work ') . '</p>';
+      return $output;
+    break;
+  }
+}
+
+/**
+ * Implements hook_theme().
+ */
+
+function mymodule_theme()
+{
+
+	  $theme['hello_page'] = [
+				'variables' => ['name' => NULL],
+				'template' => 'hello'
+		];
+
+
+	  $theme['somme_page'] = [
+	  		'variables' => ['somme' => NULL , request => NULL  , valueIp => NULL  , collection => NULL , form => NULL],
+	  		'template'  => 'somme'
+	  ];
+
+		return $theme;
+
+
+}
+

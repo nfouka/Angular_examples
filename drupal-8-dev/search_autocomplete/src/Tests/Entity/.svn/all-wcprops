@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/projet/!svn/ver/307/drupal-8-dev/search_autocomplete/src/Tests/Entity
+END
+BasicCRUDConfigEntityTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/projet/!svn/ver/307/drupal-8-dev/search_autocomplete/src/Tests/Entity/BasicCRUDConfigEntityTest.php
+END
+DefaultConfigEntityTest.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/projet/!svn/ver/307/drupal-8-dev/search_autocomplete/src/Tests/Entity/DefaultConfigEntityTest.php
+END

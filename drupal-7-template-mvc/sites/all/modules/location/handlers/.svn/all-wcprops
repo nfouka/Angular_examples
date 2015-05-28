@@ -1,0 +1,107 @@
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers
+END
+location_views_handler_filter_proximity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_views_handler_filter_proximity.inc
+END
+location_handler_sort_location_distance.inc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_handler_sort_location_distance.inc
+END
+location_views_handler_field_coordinates.inc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_views_handler_field_coordinates.inc
+END
+location_views_handler_field_latitude.inc
+K 25
+svn:wc:ra_dav:version-url
+V 120
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_views_handler_field_latitude.inc
+END
+location_handler_argument_location_country.inc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_handler_argument_location_country.inc
+END
+location_handler_argument_location_proximity.inc
+K 25
+svn:wc:ra_dav:version-url
+V 127
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_handler_argument_location_proximity.inc
+END
+location_handler_field_location_country.inc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_handler_field_location_country.inc
+END
+location_handler_filter_location_country.inc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_handler_filter_location_country.inc
+END
+location_handler_field_location_street.inc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_handler_field_location_street.inc
+END
+location_handler_sort_location_country.inc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_handler_sort_location_country.inc
+END
+location_handler_field_location_additional.inc
+K 25
+svn:wc:ra_dav:version-url
+V 125
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_handler_field_location_additional.inc
+END
+location_views_handler_field_longitude.inc
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_views_handler_field_longitude.inc
+END
+location_handler_argument_location_province.inc
+K 25
+svn:wc:ra_dav:version-url
+V 126
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_handler_argument_location_province.inc
+END
+location_handler_field_location_province.inc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_handler_field_location_province.inc
+END
+location_handler_field_location_address.inc
+K 25
+svn:wc:ra_dav:version-url
+V 122
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_handler_field_location_address.inc
+END
+location_handler_filter_location_province.inc
+K 25
+svn:wc:ra_dav:version-url
+V 124
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_handler_filter_location_province.inc
+END
+location_handler_field_location_distance.inc
+K 25
+svn:wc:ra_dav:version-url
+V 123
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/location/handlers/location_handler_field_location_distance.inc
+END

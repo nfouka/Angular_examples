@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Profiler
+END
+ProfilerStorageFactory.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Profiler/ProfilerStorageFactory.php
+END
+Profiler.php
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Profiler/Profiler.php
+END
+ProfilerStorageManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Profiler/ProfilerStorageManager.php
+END
+TemplateManager.php
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Profiler/TemplateManager.php
+END
+DatabaseProfilerStorage.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Profiler/DatabaseProfilerStorage.php
+END

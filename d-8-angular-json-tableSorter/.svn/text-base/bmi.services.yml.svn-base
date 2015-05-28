@@ -1,0 +1,5 @@
+services:
+  bmi.calcul:
+    class: Drupal\bmi\CalculService
+    arguments: []
+

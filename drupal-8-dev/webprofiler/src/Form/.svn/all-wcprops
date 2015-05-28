@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Form
+END
+ConfigForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Form/ConfigForm.php
+END
+ServiceFilterForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Form/ServiceFilterForm.php
+END
+FormBuilderWrapper.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Form/FormBuilderWrapper.php
+END
+ManageForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Form/ManageForm.php
+END
+ProfilesFilterForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Form/ProfilesFilterForm.php
+END
+DatabaseFilterForm.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/projet/!svn/ver/307/drupal-8-dev/webprofiler/src/Form/DatabaseFilterForm.php
+END

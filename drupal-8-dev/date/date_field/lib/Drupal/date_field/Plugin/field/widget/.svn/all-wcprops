@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/projet/!svn/ver/307/drupal-8-dev/date/date_field/lib/Drupal/date_field/Plugin/field/widget
+END
+DateFieldWidgetBase.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/projet/!svn/ver/307/drupal-8-dev/date/date_field/lib/Drupal/date_field/Plugin/field/widget/DateFieldWidgetBase.php
+END
+DateFieldDatepickerWidget.php
+K 25
+svn:wc:ra_dav:version-url
+V 121
+/projet/!svn/ver/307/drupal-8-dev/date/date_field/lib/Drupal/date_field/Plugin/field/widget/DateFieldDatepickerWidget.php
+END
+DateFieldListWidget.php
+K 25
+svn:wc:ra_dav:version-url
+V 115
+/projet/!svn/ver/307/drupal-8-dev/date/date_field/lib/Drupal/date_field/Plugin/field/widget/DateFieldListWidget.php
+END

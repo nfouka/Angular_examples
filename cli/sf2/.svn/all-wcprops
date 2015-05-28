@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/projet/!svn/ver/361/cli/sf2
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/projet/!svn/ver/359/cli/sf2/.gitignore
+END
+README.md
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/projet/!svn/ver/359/cli/sf2/README.md
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/projet/!svn/ver/360/cli/sf2/Makefile
+END
+composer.lock
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/projet/!svn/ver/359/cli/sf2/composer.lock
+END
+composer.json
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/projet/!svn/ver/359/cli/sf2/composer.json
+END

@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/ckeditor
+END
+LICENSE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/ckeditor/LICENSE.txt
+END
+ckeditor.styles.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/ckeditor/ckeditor.styles.js
+END
+ckeditor.api.php
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/ckeditor/ckeditor.api.php
+END
+ckeditor.config.js
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/ckeditor/ckeditor.config.js
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/ckeditor/.gitignore
+END
+CHANGELOG.txt
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/ckeditor/CHANGELOG.txt
+END
+ckeditor.module
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/ckeditor/ckeditor.module
+END
+ckeditor.install
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/ckeditor/ckeditor.install
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/ckeditor/README.txt
+END
+ckeditor.info
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/projet/!svn/ver/306/drupal-7-template-mvc/sites/all/modules/ckeditor/ckeditor.info
+END

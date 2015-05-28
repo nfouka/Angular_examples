@@ -1,0 +1,42 @@
+<?php
+
+/**
+ * @file
+ * Contains first.module.
+ */
+
+use Drupal\Core\Routing\RouteMatchInterface;
+
+/**
+ * Implements hook_help().
+ */
+function first_help($route_name, RouteMatchInterface $route_match) {
+  switch ($route_name) {
+    // Main module help for the first module.
+    case 'help.page.first':
+      $output = '';
+      $output .= '<h3>' . t('About') . '</h3>';
+      $output .= '<p>' . t('My Awesome Module') . '</p>';
+      return $output;
+
+    default:
+  }
+}
+
+/**
+ * Implements hook_theme().
+ */
+function first_theme() {
+ 
+   $theme['hello_page'] = [
+				'variables' => ['name' => NULL , 'form'  => NULL  ],
+				'template' => 'hello'
+		];
+
+      $theme['calc_page'] = [
+        'variables' => ['name' => NULL , 'form_calc'  => NULL  ],
+        'template' => 'calc'
+    ];
+
+    return $theme;
+}
